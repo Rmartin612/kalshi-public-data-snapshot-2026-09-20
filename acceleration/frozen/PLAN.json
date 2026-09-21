@@ -1,0 +1,93 @@
+{
+  "format_version": 1,
+  "full_inventory_sha256": "c044fef1eaab07651cfd442be182804d68d23e646fb3a72ab7e114afc111d5e1",
+  "source_object_count": 3934,
+  "source_bytes": 462291303835,
+  "jobs": 8,
+  "timeout_minutes_each": 45,
+  "nominal_max_runner_minutes": 360,
+  "expected_standard_public_runner_compute_usd": 0,
+  "billing_note": "Public repository with standard ubuntu-24.04 hosted runners only. No larger runners, caches or Actions artifacts.",
+  "expected_repository_visibility": "public",
+  "repository": "Rmartin612/kalshi-public-data-snapshot-2026-09-20",
+  "release_tag": "snapshot-2026-09-20",
+  "compression": "gzip",
+  "compression_level": 6,
+  "jobs_per_shard": 2,
+  "volume_mib": 512,
+  "shards": [
+    {
+      "index": 0,
+      "objects": 491,
+      "source_bytes": 57786413610,
+      "original_gzip_bytes": 1354765164,
+      "sequence_start": 100000,
+      "filename": "inventory-00.json",
+      "inventory_sha256": "339e9f5991c74b3234b5bd859a6411370126e48d68f4ce478a8139a8a3dd03f1"
+    },
+    {
+      "index": 1,
+      "objects": 491,
+      "source_bytes": 57786413632,
+      "original_gzip_bytes": 1092009834,
+      "sequence_start": 200000,
+      "filename": "inventory-01.json",
+      "inventory_sha256": "362dedf255043a7840201a2a2d0dfb53045c3fcff933d77968d88327284fdfba"
+    },
+    {
+      "index": 2,
+      "objects": 497,
+      "source_bytes": 57786412181,
+      "original_gzip_bytes": 957298677,
+      "sequence_start": 300000,
+      "filename": "inventory-02.json",
+      "inventory_sha256": "54e2ff25e7e952d7aebf03bd08c61e936d3e17766e9164857277ff993188f227"
+    },
+    {
+      "index": 3,
+      "objects": 491,
+      "source_bytes": 57786412230,
+      "original_gzip_bytes": 845239999,
+      "sequence_start": 400000,
+      "filename": "inventory-03.json",
+      "inventory_sha256": "8ffb593d27dc0e057382901d5a0df2427f6bcb48a58797dae49b2dc41b28bc42"
+    },
+    {
+      "index": 4,
+      "objects": 491,
+      "source_bytes": 57786413848,
+      "original_gzip_bytes": 1125573525,
+      "sequence_start": 500000,
+      "filename": "inventory-04.json",
+      "inventory_sha256": "c31f84825437ee86ce041010213dce8687d273730c08d095982661bbce604cf8"
+    },
+    {
+      "index": 5,
+      "objects": 491,
+      "source_bytes": 57786412954,
+      "original_gzip_bytes": 1652885745,
+      "sequence_start": 600000,
+      "filename": "inventory-05.json",
+      "inventory_sha256": "bef63278d60b6a0490c4bbe7390639278a8bdba230a3c03dba5802de11765054"
+    },
+    {
+      "index": 6,
+      "objects": 491,
+      "source_bytes": 57786412434,
+      "original_gzip_bytes": 1427924683,
+      "sequence_start": 700000,
+      "filename": "inventory-06.json",
+      "inventory_sha256": "612b76e98f1a1e3efa85231af549c9fbbfa0372c393912b50dbf50fc7795357a"
+    },
+    {
+      "index": 7,
+      "objects": 491,
+      "source_bytes": 57786412946,
+      "original_gzip_bytes": 961333560,
+      "sequence_start": 800000,
+      "filename": "inventory-07.json",
+      "inventory_sha256": "105f0f8d1ab45e07fb1bfa3cc34ec7865b04faed76fd032f8f9a30e29d2a5801"
+    }
+  ],
+  "frozen_at": "2026-09-21T03:48:53.413724+00:00"
+}

@@ -1,0 +1,6 @@
+# Preserve source snapshots and cryptographic manifests byte-for-byte.
+provenance/** -text
+discovery/** -text
+manifests/** -text
+*.pdf -text
+acceleration/** -text

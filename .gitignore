@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.zip
+*.xz
+*.gz
+transfer/
+data/
+packages/
+acceleration-runtime/

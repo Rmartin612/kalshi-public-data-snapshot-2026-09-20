@@ -1,0 +1,2948 @@
+[
+  {
+    "key": "reporting/market_data_2021-07-01.json",
+    "size": 872,
+    "last_modified": "2022-01-18T18:04:10.000Z",
+    "etag": "\"218a2d9b89e6e6c4aea83e677b46f459\""
+  },
+  {
+    "key": "reporting/market_data_2021-07-02.json",
+    "size": 1942,
+    "last_modified": "2022-01-18T18:04:10.000Z",
+    "etag": "\"92b8a35430cb62c4fec9fa52c267939d\""
+  },
+  {
+    "key": "reporting/market_data_2021-07-10.json",
+    "size": 3142,
+    "last_modified": "2022-08-18T19:06:45.000Z",
+    "etag": "\"7c9b24262afce524195be09e5dfb69bb\""
+  },
+  {
+    "key": "reporting/market_data_2021-07-22.json",
+    "size": 5684,
+    "last_modified": "2022-08-18T19:06:49.000Z",
+    "etag": "\"9597db294a576ca79b4bad3f2c855b4a\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-06.json",
+    "size": 7479,
+    "last_modified": "2022-08-18T19:06:55.000Z",
+    "etag": "\"2b58b380655c1f2272a7a77dc152763b\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-11.json",
+    "size": 7924,
+    "last_modified": "2022-08-18T19:06:57.000Z",
+    "etag": "\"cde537b8a6db9b80e8ee8f99d46353a4\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-12.json",
+    "size": 8828,
+    "last_modified": "2022-08-18T19:06:57.000Z",
+    "etag": "\"7151a787fc0e8218bd2064f9c80d293d\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-16.json",
+    "size": 8813,
+    "last_modified": "2022-08-18T19:06:59.000Z",
+    "etag": "\"c8123b89a60ac1341ff26f1e1dfc7049\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-22.json",
+    "size": 10908,
+    "last_modified": "2022-08-18T19:07:01.000Z",
+    "etag": "\"ffb530e2bfff22ff5f44721b0355abc5\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-24.json",
+    "size": 10893,
+    "last_modified": "2022-08-18T19:07:02.000Z",
+    "etag": "\"49b54cf0fc366625029c5b451a031bed\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-29.json",
+    "size": 13583,
+    "last_modified": "2022-08-18T19:07:05.000Z",
+    "etag": "\"af283f62b56836e2f98afb1595faed41\""
+  },
+  {
+    "key": "reporting/market_data_2021-08-30.json",
+    "size": 14048,
+    "last_modified": "2022-08-18T19:07:05.000Z",
+    "etag": "\"45a22dc95e99b04a4450f5429249007a\""
+  },
+  {
+    "key": "reporting/market_data_2021-09-21.json",
+    "size": 14257,
+    "last_modified": "2022-08-18T19:07:13.000Z",
+    "etag": "\"a9119447a63d5ca43b2522b557656055\""
+  },
+  {
+    "key": "reporting/market_data_2021-10-05.json",
+    "size": 16990,
+    "last_modified": "2022-08-18T19:07:19.000Z",
+    "etag": "\"2d2ff91d4cdbc7a540ad9e6d4e9807bb\""
+  },
+  {
+    "key": "reporting/market_data_2021-10-10.json",
+    "size": 16273,
+    "last_modified": "2022-08-18T19:07:20.000Z",
+    "etag": "\"9a4cf10de176606610ef2621c1bad214\""
+  },
+  {
+    "key": "reporting/market_data_2021-10-13.json",
+    "size": 17921,
+    "last_modified": "2022-08-18T19:07:21.000Z",
+    "etag": "\"b9335328d2b31aca2780174155e6597a\""
+  },
+  {
+    "key": "reporting/market_data_2021-10-29.json",
+    "size": 19525,
+    "last_modified": "2022-08-18T19:07:27.000Z",
+    "etag": "\"3f8f92e1c437b3ac9ae9a2ea8502c20f\""
+  },
+  {
+    "key": "reporting/market_data_2021-10-30.json",
+    "size": 18815,
+    "last_modified": "2022-08-18T19:07:27.000Z",
+    "etag": "\"a9336c70b8e3fe00b99f58b42fe26886\""
+  },
+  {
+    "key": "reporting/market_data_2021-10-31.json",
+    "size": 18560,
+    "last_modified": "2022-08-18T19:07:27.000Z",
+    "etag": "\"0064b2f98310d7cab9234aa4deb373aa\""
+  },
+  {
+    "key": "reporting/market_data_2021-11-13.json",
+    "size": 17681,
+    "last_modified": "2022-08-18T19:07:32.000Z",
+    "etag": "\"ef9c2f51432ad35e517c63bd5bcb6f17\""
+  },
+  {
+    "key": "reporting/market_data_2021-11-28.json",
+    "size": 19939,
+    "last_modified": "2022-08-18T19:07:37.000Z",
+    "etag": "\"adc1b26a61912c9bd35c02781860339a\""
+  },
+  {
+    "key": "reporting/market_data_2021-12-01.json",
+    "size": 22239,
+    "last_modified": "2022-08-18T19:07:38.000Z",
+    "etag": "\"f3a2df05cf7ccd677b1acc620827bf27\""
+  },
+  {
+    "key": "reporting/market_data_2021-12-09.json",
+    "size": 22013,
+    "last_modified": "2022-08-18T19:07:41.000Z",
+    "etag": "\"0ee7965e6f6e2e00e2fcc17e5feb01f6\""
+  },
+  {
+    "key": "reporting/market_data_2021-12-19.json",
+    "size": 33901,
+    "last_modified": "2022-08-18T19:07:44.000Z",
+    "etag": "\"e95b4558cf346a9e640473981bc04763\""
+  },
+  {
+    "key": "reporting/market_data_2021-12-29.json",
+    "size": 35616,
+    "last_modified": "2022-08-18T19:07:48.000Z",
+    "etag": "\"f5dec57b3cd7e2ad61f4527bb269af4f\""
+  },
+  {
+    "key": "reporting/market_data_2021-12-31.json",
+    "size": 38094,
+    "last_modified": "2022-08-18T19:07:48.000Z",
+    "etag": "\"76bc822606c9c1ba06d84b6f73552073\""
+  },
+  {
+    "key": "reporting/market_data_2022-01-08.json",
+    "size": 41398,
+    "last_modified": "2022-08-18T19:07:51.000Z",
+    "etag": "\"6deabc4af3bc0ee9b495c66e1a814061\""
+  },
+  {
+    "key": "reporting/market_data_2022-01-16.json",
+    "size": 46110,
+    "last_modified": "2022-08-18T19:07:54.000Z",
+    "etag": "\"fb188306072d9deba370413b714e3bb0\""
+  },
+  {
+    "key": "reporting/market_data_2022-01-21.json",
+    "size": 48597,
+    "last_modified": "2022-08-18T19:07:56.000Z",
+    "etag": "\"625b56436d1853cd737451f65d29e3a1\""
+  },
+  {
+    "key": "reporting/market_data_2022-01-24.json",
+    "size": 47647,
+    "last_modified": "2022-08-18T19:07:57.000Z",
+    "etag": "\"09ed8271836eef783f0486b88da82247\""
+  },
+  {
+    "key": "reporting/market_data_2022-01-31.json",
+    "size": 49955,
+    "last_modified": "2022-08-18T19:08:00.000Z",
+    "etag": "\"fd36b5364d84fef8a3cc64eb6676ec26\""
+  },
+  {
+    "key": "reporting/market_data_2022-02-01.json",
+    "size": 51536,
+    "last_modified": "2022-08-18T19:08:00.000Z",
+    "etag": "\"76f3684c1ea14848d293aaedb4e8f0c8\""
+  },
+  {
+    "key": "reporting/market_data_2022-02-17.json",
+    "size": 57576,
+    "last_modified": "2022-08-18T19:08:08.000Z",
+    "etag": "\"cba9faa4700cb98d58c38edd235b228e\""
+  },
+  {
+    "key": "reporting/market_data_2022-02-21.json",
+    "size": 55260,
+    "last_modified": "2022-08-18T19:08:10.000Z",
+    "etag": "\"7443b2a837a1157e7929c456c510a8b8\""
+  },
+  {
+    "key": "reporting/market_data_2022-03-02.json",
+    "size": 55818,
+    "last_modified": "2022-08-18T19:08:13.000Z",
+    "etag": "\"c812e02a026e827d9bbdad0a981a0fc8\""
+  },
+  {
+    "key": "reporting/market_data_2022-03-18.json",
+    "size": 75553,
+    "last_modified": "2022-08-18T19:08:19.000Z",
+    "etag": "\"d5bd19cdc66cef54da0ecbda2c332d5f\""
+  },
+  {
+    "key": "reporting/market_data_2022-03-22.json",
+    "size": 78883,
+    "last_modified": "2022-08-18T19:08:21.000Z",
+    "etag": "\"9c7e545c44549556cc3a9da350161ab2\""
+  },
+  {
+    "key": "reporting/market_data_2022-03-25.json",
+    "size": 91991,
+    "last_modified": "2022-08-18T19:08:22.000Z",
+    "etag": "\"3dde945a9b956b7120cd5a67545de755\""
+  },
+  {
+    "key": "reporting/market_data_2022-04-04.json",
+    "size": 96784,
+    "last_modified": "2022-08-18T19:08:25.000Z",
+    "etag": "\"d0465970688ec9580881a2d13f4fee10\""
+  },
+  {
+    "key": "reporting/market_data_2022-04-07.json",
+    "size": 98025,
+    "last_modified": "2022-08-18T19:08:27.000Z",
+    "etag": "\"1d48f2e6bd2cd305e3bcdbe468e18ce8\""
+  },
+  {
+    "key": "reporting/market_data_2022-04-13.json",
+    "size": 101346,
+    "last_modified": "2022-08-18T19:08:28.000Z",
+    "etag": "\"be71f2b3b8b03e6a4da419b19f17693d\""
+  },
+  {
+    "key": "reporting/market_data_2022-04-15.json",
+    "size": 103999,
+    "last_modified": "2022-08-18T19:08:29.000Z",
+    "etag": "\"f5229f75b24c38467e902de72c1bad53\""
+  },
+  {
+    "key": "reporting/market_data_2022-04-27.json",
+    "size": 112923,
+    "last_modified": "2022-08-18T19:08:34.000Z",
+    "etag": "\"49172e902f2b6c7eab5bd4dd70fbe6ef\""
+  },
+  {
+    "key": "reporting/market_data_2022-05-13.json",
+    "size": 145103,
+    "last_modified": "2022-08-18T19:08:41.000Z",
+    "etag": "\"81ccae929b7aa17385ff88872934ec05\""
+  },
+  {
+    "key": "reporting/market_data_2022-05-16.json",
+    "size": 148358,
+    "last_modified": "2022-08-18T19:08:42.000Z",
+    "etag": "\"a45b0eb402603d52928ee93d5f611d85\""
+  },
+  {
+    "key": "reporting/market_data_2022-05-19.json",
+    "size": 145808,
+    "last_modified": "2022-08-18T19:08:44.000Z",
+    "etag": "\"b673c6257540e0138e38a25a1f6b0614\""
+  },
+  {
+    "key": "reporting/market_data_2022-05-26.json",
+    "size": 147398,
+    "last_modified": "2022-08-18T19:08:47.000Z",
+    "etag": "\"d6ca17f37d1b1147bbe50de035641f42\""
+  },
+  {
+    "key": "reporting/market_data_2022-06-06.json",
+    "size": 147944,
+    "last_modified": "2022-08-18T19:08:51.000Z",
+    "etag": "\"57e0ce1708d56afb3f95383aa24f81b7\""
+  },
+  {
+    "key": "reporting/market_data_2022-06-17.json",
+    "size": 182599,
+    "last_modified": "2022-06-23T13:14:02.000Z",
+    "etag": "\"a2d36f74f878b96d0147091126d4f267\""
+  },
+  {
+    "key": "reporting/market_data_2022-06-18.json",
+    "size": 168235,
+    "last_modified": "2022-06-23T13:14:02.000Z",
+    "etag": "\"a330db86216710c5dfbba3d2b09af951\""
+  },
+  {
+    "key": "reporting/market_data_2022-06-21.json",
+    "size": 164341,
+    "last_modified": "2022-06-23T13:14:04.000Z",
+    "etag": "\"2ecf0f85dea605dd091e9d90b1e80ece\""
+  },
+  {
+    "key": "reporting/market_data_2022-06-23.json",
+    "size": 158324,
+    "last_modified": "2022-08-18T19:08:53.000Z",
+    "etag": "\"609def9990f1ad71de75e76a223aced5\""
+  },
+  {
+    "key": "reporting/market_data_2022-07-08.json",
+    "size": 203817,
+    "last_modified": "2022-08-18T19:09:00.000Z",
+    "etag": "\"9e45eb2a96cf854c5570399c97bbd219\""
+  },
+  {
+    "key": "reporting/market_data_2022-07-13.json",
+    "size": 211535,
+    "last_modified": "2022-08-18T19:09:02.000Z",
+    "etag": "\"074c26c010e3404175a54b419719d9de\""
+  },
+  {
+    "key": "reporting/market_data_2022-07-23.json",
+    "size": 205309,
+    "last_modified": "2022-07-24T06:38:22.000Z",
+    "etag": "\"79519ec5d5308929c6f4ea7ca56ac434\""
+  },
+  {
+    "key": "reporting/market_data_2022-07-26.json",
+    "size": 214812,
+    "last_modified": "2022-07-27T06:44:46.000Z",
+    "etag": "\"e3e021af395dd952cf8e2c5102df8daf\""
+  },
+  {
+    "key": "reporting/market_data_2022-08-05.json",
+    "size": 231478,
+    "last_modified": "2022-08-06T06:48:00.000Z",
+    "etag": "\"021d7a1d808221ce532a8c1f50d16f73\""
+  },
+  {
+    "key": "reporting/market_data_2022-08-14.json",
+    "size": 230282,
+    "last_modified": "2022-08-18T19:09:07.000Z",
+    "etag": "\"4704d62b61f1a4cf22b3887bd364fbb7\""
+  },
+  {
+    "key": "reporting/market_data_2022-08-15.json",
+    "size": 243505,
+    "last_modified": "2022-08-18T19:09:07.000Z",
+    "etag": "\"9e556dff7e826b3e96fa5dd5ac88194b\""
+  },
+  {
+    "key": "reporting/market_data_2022-08-21.json",
+    "size": 240791,
+    "last_modified": "2022-08-26T16:06:45.000Z",
+    "etag": "\"af326d7b3db1100139dad73e01064eb2\""
+  },
+  {
+    "key": "reporting/market_data_2022-08-22.json",
+    "size": 252002,
+    "last_modified": "2022-08-26T16:06:46.000Z",
+    "etag": "\"cac265f7de6cb862b64e6c8d4d32eac7\""
+  },
+  {
+    "key": "reporting/market_data_2022-08-30.json",
+    "size": 250377,
+    "last_modified": "2022-08-31T07:37:02.000Z",
+    "etag": "\"c3093e2c08caf9fb2eb11535e9f5c546\""
+  },
+  {
+    "key": "reporting/market_data_2022-09-05.json",
+    "size": 223051,
+    "last_modified": "2022-09-06T07:05:32.000Z",
+    "etag": "\"30be5885f351e0de281acb7bbbe9fb8f\""
+  },
+  {
+    "key": "reporting/market_data_2022-09-06.json",
+    "size": 220908,
+    "last_modified": "2022-09-07T07:26:58.000Z",
+    "etag": "\"b2e1af14bd7e4ed6b3cf96b5fd539299\""
+  },
+  {
+    "key": "reporting/market_data_2022-09-11.json",
+    "size": 205197,
+    "last_modified": "2022-09-12T07:01:19.000Z",
+    "etag": "\"dde358f6cd3f66244565d6bfe5ebba89\""
+  },
+  {
+    "key": "reporting/market_data_2022-09-22.json",
+    "size": 233841,
+    "last_modified": "2022-09-23T07:38:32.000Z",
+    "etag": "\"a01bb319be23b7d3c62419f6e21022cd\""
+  },
+  {
+    "key": "reporting/market_data_2022-10-06.json",
+    "size": 228746,
+    "last_modified": "2022-10-07T07:29:58.000Z",
+    "etag": "\"09ec4868bb43fa2045b90139b7718809\""
+  },
+  {
+    "key": "reporting/market_data_2022-10-08.json",
+    "size": 218592,
+    "last_modified": "2022-10-09T07:03:18.000Z",
+    "etag": "\"ab469a5393106c3ab4bfebe425366e34\""
+  },
+  {
+    "key": "reporting/market_data_2022-10-10.json",
+    "size": 231808,
+    "last_modified": "2022-10-11T07:22:28.000Z",
+    "etag": "\"60f0bcd6e7f9b8e4f7091474586edf3d\""
+  },
+  {
+    "key": "reporting/market_data_2022-10-19.json",
+    "size": 233703,
+    "last_modified": "2022-10-20T07:27:09.000Z",
+    "etag": "\"7f27ec01e97fcc800e0e4317cbd11baf\""
+  },
+  {
+    "key": "reporting/market_data_2022-10-27.json",
+    "size": 224722,
+    "last_modified": "2022-10-28T07:31:33.000Z",
+    "etag": "\"ec1a8ed1c937461380b1fb25bda5ad66\""
+  },
+  {
+    "key": "reporting/market_data_2022-10-30.json",
+    "size": 217885,
+    "last_modified": "2022-10-31T07:04:29.000Z",
+    "etag": "\"b752901d7eca63a46745b2015f6f9909\""
+  },
+  {
+    "key": "reporting/market_data_2022-11-11.json",
+    "size": 277760,
+    "last_modified": "2022-11-12T07:16:02.000Z",
+    "etag": "\"61b03a5342ca7756f3a9c4e0560adce1\""
+  },
+  {
+    "key": "reporting/market_data_2022-11-18.json",
+    "size": 271590,
+    "last_modified": "2022-11-19T06:45:42.000Z",
+    "etag": "\"75f2947409a4860dd8c593a83ed2397a\""
+  },
+  {
+    "key": "reporting/market_data_2022-11-28.json",
+    "size": 255198,
+    "last_modified": "2022-11-29T06:46:18.000Z",
+    "etag": "\"fc09d977e14cb6070c8b1d0db0445f1e\""
+  },
+  {
+    "key": "reporting/market_data_2022-11-30.json",
+    "size": 258992,
+    "last_modified": "2022-12-01T06:49:14.000Z",
+    "etag": "\"dacd035db1b20e24525ace2d8a0f2453\""
+  },
+  {
+    "key": "reporting/market_data_2022-12-09.json",
+    "size": 281348,
+    "last_modified": "2022-12-10T06:44:50.000Z",
+    "etag": "\"2daf8abb0927035c08261bf179564fb8\""
+  },
+  {
+    "key": "reporting/market_data_2022-12-15.json",
+    "size": 290767,
+    "last_modified": "2022-12-16T19:08:59.000Z",
+    "etag": "\"d9932284adfdf3085cae61447b99218a\""
+  },
+  {
+    "key": "reporting/market_data_2022-12-20.json",
+    "size": 334531,
+    "last_modified": "2022-12-21T06:49:00.000Z",
+    "etag": "\"3b1a4bf1c47d230aab5528da15705abf\""
+  },
+  {
+    "key": "reporting/market_data_2022-12-28.json",
+    "size": 449612,
+    "last_modified": "2022-12-29T06:47:51.000Z",
+    "etag": "\"6e623e9db8016342304bff7a0ad64169\""
+  },
+  {
+    "key": "reporting/market_data_2023-01-07.json",
+    "size": 389652,
+    "last_modified": "2023-01-08T06:39:38.000Z",
+    "etag": "\"2461e573e38a49476941f8a5ee6ddb33\""
+  },
+  {
+    "key": "reporting/market_data_2023-01-09.json",
+    "size": 403654,
+    "last_modified": "2023-01-10T06:44:25.000Z",
+    "etag": "\"eb698a8e12a3c3eee1021cad863b4322\""
+  },
+  {
+    "key": "reporting/market_data_2023-01-17.json",
+    "size": 403999,
+    "last_modified": "2023-01-18T06:43:04.000Z",
+    "etag": "\"75a6b18127e229c498723811d2371120\""
+  },
+  {
+    "key": "reporting/market_data_2023-01-28.json",
+    "size": 395360,
+    "last_modified": "2023-01-29T06:40:13.000Z",
+    "etag": "\"7ba674b48d399a08e01ef718d5543e36\""
+  },
+  {
+    "key": "reporting/market_data_2023-02-01.json",
+    "size": 411797,
+    "last_modified": "2023-02-02T06:46:45.000Z",
+    "etag": "\"b52744e0e468baca9e0d9f31cea68254\""
+  },
+  {
+    "key": "reporting/market_data_2023-02-04.json",
+    "size": 398677,
+    "last_modified": "2023-02-05T06:41:14.000Z",
+    "etag": "\"a89d1c237675262d6832b08f4af195be\""
+  },
+  {
+    "key": "reporting/market_data_2023-02-07.json",
+    "size": 414777,
+    "last_modified": "2023-02-08T06:47:24.000Z",
+    "etag": "\"ca567f5cce7d702395c322a850f5ee03\""
+  },
+  {
+    "key": "reporting/market_data_2023-02-19.json",
+    "size": 398803,
+    "last_modified": "2023-02-20T06:41:47.000Z",
+    "etag": "\"04ccd1de022b8cc548c8bc25d9fcc9a9\""
+  },
+  {
+    "key": "reporting/market_data_2023-02-20.json",
+    "size": 412087,
+    "last_modified": "2023-02-21T06:45:10.000Z",
+    "etag": "\"a6fd222f631b076364563c2ebeb8decc\""
+  },
+  {
+    "key": "reporting/market_data_2023-03-02.json",
+    "size": 482470,
+    "last_modified": "2023-03-03T06:53:19.000Z",
+    "etag": "\"db41bc74dd38b3c3f60248369cf4ab27\""
+  },
+  {
+    "key": "reporting/market_data_2023-03-11.json",
+    "size": 462179,
+    "last_modified": "2023-03-13T11:44:30.000Z",
+    "etag": "\"38ad1c5621b6e911c65bce9264cde8df\""
+  },
+  {
+    "key": "reporting/market_data_2023-03-19.json",
+    "size": 447116,
+    "last_modified": "2023-03-20T09:15:27.000Z",
+    "etag": "\"6997a01349d48b539d09cdf9395ea62d\""
+  },
+  {
+    "key": "reporting/market_data_2023-03-22.json",
+    "size": 454725,
+    "last_modified": "2023-03-23T09:32:02.000Z",
+    "etag": "\"f038c582cf890e2960a0027301097d73\""
+  },
+  {
+    "key": "reporting/market_data_2023-03-29.json",
+    "size": 439022,
+    "last_modified": "2023-03-30T09:29:40.000Z",
+    "etag": "\"97cc9b2c611bc614e1b56255bd7c666f\""
+  },
+  {
+    "key": "reporting/market_data_2023-04-09.json",
+    "size": 406302,
+    "last_modified": "2023-04-10T09:15:10.000Z",
+    "etag": "\"8d0e56c5a4d1ab20417df0c1c8be9e52\""
+  },
+  {
+    "key": "reporting/market_data_2023-04-11.json",
+    "size": 431583,
+    "last_modified": "2023-04-12T09:21:28.000Z",
+    "etag": "\"ab2cae079d7887f98496059bba36ddd6\""
+  },
+  {
+    "key": "reporting/market_data_2023-04-16.json",
+    "size": 416989,
+    "last_modified": "2023-04-17T09:12:02.000Z",
+    "etag": "\"28e2c65c09371ad21f088420deeb738d\""
+  },
+  {
+    "key": "reporting/market_data_2023-04-24.json",
+    "size": 425116,
+    "last_modified": "2023-04-25T09:21:08.000Z",
+    "etag": "\"153a5d21079a40f8767df2f82a826077\""
+  },
+  {
+    "key": "reporting/market_data_2023-05-04.json",
+    "size": 421217,
+    "last_modified": "2023-05-05T09:28:46.000Z",
+    "etag": "\"adcc3e8b12124e1463e9df811a4317a6\""
+  },
+  {
+    "key": "reporting/market_data_2023-05-12.json",
+    "size": 429449,
+    "last_modified": "2023-05-13T09:19:05.000Z",
+    "etag": "\"67456461841db687b8e650c5287c640b\""
+  },
+  {
+    "key": "reporting/market_data_2023-05-13.json",
+    "size": 406002,
+    "last_modified": "2023-05-14T09:11:10.000Z",
+    "etag": "\"65f01b3998f6136ea47ed8a3a2f96517\""
+  },
+  {
+    "key": "reporting/market_data_2023-05-21.json",
+    "size": 409265,
+    "last_modified": "2023-05-22T09:13:19.000Z",
+    "etag": "\"7c51f7101d232c04dd187e69fbf28983\""
+  },
+  {
+    "key": "reporting/market_data_2023-05-26.json",
+    "size": 418233,
+    "last_modified": "2023-05-27T09:29:28.000Z",
+    "etag": "\"1625139172cad4863cf85ee4d2e8fea1\""
+  },
+  {
+    "key": "reporting/market_data_2023-06-13.json",
+    "size": 439684,
+    "last_modified": "2023-06-14T09:29:40.000Z",
+    "etag": "\"10b0256b616b4c2caf72eeb9a919da3b\""
+  },
+  {
+    "key": "reporting/market_data_2023-07-21.json",
+    "size": 484605,
+    "last_modified": "2023-07-22T09:35:25.000Z",
+    "etag": "\"e1b3234138d509354daf6e3b7b9be043\""
+  },
+  {
+    "key": "reporting/market_data_2023-08-07.json",
+    "size": 496506,
+    "last_modified": "2023-08-08T09:23:25.000Z",
+    "etag": "\"6d8f8360f9daff3fed65dc33510850ac\""
+  },
+  {
+    "key": "reporting/market_data_2023-08-13.json",
+    "size": 468357,
+    "last_modified": "2023-08-14T09:15:03.000Z",
+    "etag": "\"bb09706f0233fa2667922484e67d8589\""
+  },
+  {
+    "key": "reporting/market_data_2023-08-26.json",
+    "size": 470505,
+    "last_modified": "2023-08-27T09:15:22.000Z",
+    "etag": "\"cdf28914186aa08b45990dcafb19bb56\""
+  },
+  {
+    "key": "reporting/market_data_2023-09-10.json",
+    "size": 475248,
+    "last_modified": "2023-09-11T09:15:56.000Z",
+    "etag": "\"9ae63139a84c25e035fd4ad16a253f47\""
+  },
+  {
+    "key": "reporting/market_data_2023-09-11.json",
+    "size": 498657,
+    "last_modified": "2023-09-12T09:25:12.000Z",
+    "etag": "\"8c2cb6df8d518d80ae24af6567d334fc\""
+  },
+  {
+    "key": "reporting/market_data_2023-09-21.json",
+    "size": 490479,
+    "last_modified": "2023-09-22T09:31:38.000Z",
+    "etag": "\"891a82af94afffe69d00f82e3b29c33d\""
+  },
+  {
+    "key": "reporting/market_data_2023-09-22.json",
+    "size": 503334,
+    "last_modified": "2023-09-23T09:28:20.000Z",
+    "etag": "\"fa5cfbc642493a2b29e954d7b858151e\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-01.json",
+    "size": 479011,
+    "last_modified": "2023-10-02T09:16:38.000Z",
+    "etag": "\"1b92bbcfae2c76f9384fbd23b8d55a62\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-07.json",
+    "size": 493775,
+    "last_modified": "2023-10-08T09:14:45.000Z",
+    "etag": "\"d40cf6075ce917e94724c51164972c63\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-09.json",
+    "size": 505465,
+    "last_modified": "2023-10-10T09:25:59.000Z",
+    "etag": "\"f84aed7c8865d8e0a6c629954e937c53\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-10.json",
+    "size": 510424,
+    "last_modified": "2023-10-11T09:25:33.000Z",
+    "etag": "\"343e94f3c267370ef44355780e91b342\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-11.json",
+    "size": 510181,
+    "last_modified": "2023-10-12T09:26:35.000Z",
+    "etag": "\"cbb4418bb8fa5e67d03d3e0b1b01ecdb\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-18.json",
+    "size": 500756,
+    "last_modified": "2023-10-19T09:29:23.000Z",
+    "etag": "\"2bb2d787274ea98271d05e65f21e5b0a\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-27.json",
+    "size": 485539,
+    "last_modified": "2023-10-28T09:36:57.000Z",
+    "etag": "\"4481fc6f6acf1dd6d7ed72025ee3cd01\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-28.json",
+    "size": 457830,
+    "last_modified": "2023-10-29T09:15:05.000Z",
+    "etag": "\"707e2a7e4b2e8474ce93b548e114d094\""
+  },
+  {
+    "key": "reporting/market_data_2023-10-30.json",
+    "size": 478986,
+    "last_modified": "2023-10-31T09:31:21.000Z",
+    "etag": "\"1cc0c28e43c3f524fe0f65b597777e59\""
+  },
+  {
+    "key": "reporting/market_data_2023-11-02.json",
+    "size": 477135,
+    "last_modified": "2023-11-04T11:17:29.000Z",
+    "etag": "\"013e68a9f2ed78920c68058cdf731d87\""
+  },
+  {
+    "key": "reporting/market_data_2023-11-13.json",
+    "size": 481796,
+    "last_modified": "2023-11-14T10:25:46.000Z",
+    "etag": "\"222689889b14732bc9559b336c29bbfc\""
+  },
+  {
+    "key": "reporting/market_data_2023-11-14.json",
+    "size": 492849,
+    "last_modified": "2023-11-15T10:29:03.000Z",
+    "etag": "\"b9c485a19269aca6b625c68173c7902e\""
+  },
+  {
+    "key": "reporting/market_data_2023-11-22.json",
+    "size": 467897,
+    "last_modified": "2023-11-23T10:23:03.000Z",
+    "etag": "\"318cad31994a4743509d9a86afe96c19\""
+  },
+  {
+    "key": "reporting/market_data_2023-11-26.json",
+    "size": 443662,
+    "last_modified": "2023-11-27T10:14:49.000Z",
+    "etag": "\"a28dab5be9e33f7678a237466ab7a3be\""
+  },
+  {
+    "key": "reporting/market_data_2023-11-30.json",
+    "size": 475109,
+    "last_modified": "2023-12-01T10:30:39.000Z",
+    "etag": "\"dd5d6f13f85271a50e20c37901d40aab\""
+  },
+  {
+    "key": "reporting/market_data_2023-12-07.json",
+    "size": 483172,
+    "last_modified": "2023-12-08T10:26:40.000Z",
+    "etag": "\"498b95ea0e052c842670da5a511725af\""
+  },
+  {
+    "key": "reporting/market_data_2023-12-20.json",
+    "size": 529240,
+    "last_modified": "2023-12-21T10:30:10.000Z",
+    "etag": "\"3a7544e007170c46e0ed0f759a4bc9ea\""
+  },
+  {
+    "key": "reporting/market_data_2024-01-20.json",
+    "size": 437065,
+    "last_modified": "2024-01-21T10:13:29.000Z",
+    "etag": "\"18f84692bdf7a3b9a901cc79dcd85f8a\""
+  },
+  {
+    "key": "reporting/market_data_2024-01-21.json",
+    "size": 434605,
+    "last_modified": "2024-01-22T10:14:54.000Z",
+    "etag": "\"9a953a88b96ea8ad7e6b5b4d9d68dbc7\""
+  },
+  {
+    "key": "reporting/market_data_2024-01-24.json",
+    "size": 505750,
+    "last_modified": "2024-01-25T10:33:08.000Z",
+    "etag": "\"a1e0e8be7d4842ee9d15abb63cd15e13\""
+  },
+  {
+    "key": "reporting/market_data_2024-02-04.json",
+    "size": 494017,
+    "last_modified": "2024-02-05T10:18:08.000Z",
+    "etag": "\"daa229beca610a533936bba95210cab9\""
+  },
+  {
+    "key": "reporting/market_data_2024-02-07.json",
+    "size": 528424,
+    "last_modified": "2024-02-08T10:37:23.000Z",
+    "etag": "\"11e4d85ca9cb6af5d7b8a5fd2d200e46\""
+  },
+  {
+    "key": "reporting/market_data_2024-02-19.json",
+    "size": 541208,
+    "last_modified": "2024-02-20T10:18:19.000Z",
+    "etag": "\"0a09b07cd416e5ba68e99c889949d70c\""
+  },
+  {
+    "key": "reporting/market_data_2024-03-02.json",
+    "size": 561697,
+    "last_modified": "2024-03-03T10:16:26.000Z",
+    "etag": "\"65f02b2832a43b5c7ad111aa47f8666c\""
+  },
+  {
+    "key": "reporting/market_data_2024-03-06.json",
+    "size": 597265,
+    "last_modified": "2024-03-07T10:44:00.000Z",
+    "etag": "\"b22a020ae49612aa02c350b920fb367f\""
+  },
+  {
+    "key": "reporting/market_data_2024-03-09.json",
+    "size": 565514,
+    "last_modified": "2024-03-10T10:18:23.000Z",
+    "etag": "\"7f2de9f6a1632a534165bbe6af459d89\""
+  },
+  {
+    "key": "reporting/market_data_2024-04-03.json",
+    "size": 681649,
+    "last_modified": "2024-04-04T11:11:44.000Z",
+    "etag": "\"f71aef9b6cbfb9175ee9cc66fc09b269\""
+  },
+  {
+    "key": "reporting/market_data_2024-04-19.json",
+    "size": 3260014,
+    "last_modified": "2024-04-20T11:34:11.000Z",
+    "etag": "\"b28de9d1a84b38ec93dfaac463b59fe8\""
+  },
+  {
+    "key": "reporting/market_data_2024-05-12.json",
+    "size": 3202684,
+    "last_modified": "2024-05-13T12:12:58.000Z",
+    "etag": "\"b8306a5673866103497a6327c39f42c9\""
+  },
+  {
+    "key": "reporting/market_data_2024-05-21.json",
+    "size": 3761492,
+    "last_modified": "2024-05-22T11:44:51.000Z",
+    "etag": "\"3f32c5d240e05d0f4dee91359def9fb2\""
+  },
+  {
+    "key": "reporting/market_data_2024-05-22.json",
+    "size": 3769416,
+    "last_modified": "2024-05-23T11:36:50.000Z",
+    "etag": "\"839c94ac81c466911b15be94d1851dc0\""
+  },
+  {
+    "key": "reporting/market_data_2024-05-24.json",
+    "size": 3294533,
+    "last_modified": "2024-05-25T11:32:04.000Z",
+    "etag": "\"f0215d0a8794ad6c9753ae6be4ceabd1\""
+  },
+  {
+    "key": "reporting/market_data_2024-06-06.json",
+    "size": 3687963,
+    "last_modified": "2024-06-07T11:49:22.000Z",
+    "etag": "\"8002a036e0b7ebc9c12bba26ad057368\""
+  },
+  {
+    "key": "reporting/market_data_2024-06-17.json",
+    "size": 3822391,
+    "last_modified": "2024-06-18T11:34:01.000Z",
+    "etag": "\"2d643bfd3c7a9603abafbe381b657104\""
+  },
+  {
+    "key": "reporting/market_data_2024-06-21.json",
+    "size": 2877400,
+    "last_modified": "2024-06-22T11:16:04.000Z",
+    "etag": "\"b46f497f05fe699dedb11bbcc7dff501\""
+  },
+  {
+    "key": "reporting/market_data_2024-06-24.json",
+    "size": 3374863,
+    "last_modified": "2024-06-26T14:06:10.000Z",
+    "etag": "\"0a93dac168925b0f65f2e3a2d4a03797\""
+  },
+  {
+    "key": "reporting/market_data_2024-07-10.json",
+    "size": 3354776,
+    "last_modified": "2024-07-11T11:26:02.000Z",
+    "etag": "\"63cae184baa4da289cc8dfb49ddf8774\""
+  },
+  {
+    "key": "reporting/market_data_2024-07-16.json",
+    "size": 3834173,
+    "last_modified": "2024-07-17T10:49:25.000Z",
+    "etag": "\"2a6059ef3f52258b0f9250e1373c027b\""
+  },
+  {
+    "key": "reporting/market_data_2024-07-19.json",
+    "size": 3347459,
+    "last_modified": "2024-07-20T10:32:01.000Z",
+    "etag": "\"0713eb716dad646ae2e841eddac4cc2b\""
+  },
+  {
+    "key": "reporting/market_data_2024-07-27.json",
+    "size": 2919002,
+    "last_modified": "2024-07-28T10:17:56.000Z",
+    "etag": "\"b83299a5474ff12c209f727bdecf6a6c\""
+  },
+  {
+    "key": "reporting/market_data_2024-08-06.json",
+    "size": 3938883,
+    "last_modified": "2024-08-07T10:30:25.000Z",
+    "etag": "\"1e75875d4337cf7c0eaebaaaa9268ccc\""
+  },
+  {
+    "key": "reporting/market_data_2024-08-20.json",
+    "size": 4040663,
+    "last_modified": "2024-08-21T10:33:48.000Z",
+    "etag": "\"3c85bcb232988eba6da8c73d1fc8ae89\""
+  },
+  {
+    "key": "reporting/market_data_2024-08-22.json",
+    "size": 3967533,
+    "last_modified": "2024-08-23T10:25:26.000Z",
+    "etag": "\"89812047a09c04909dc065cba4cd0f9e\""
+  },
+  {
+    "key": "reporting/market_data_2024-09-03.json",
+    "size": 3537984,
+    "last_modified": "2024-09-04T10:27:57.000Z",
+    "etag": "\"3b2c78271b35cd2021790553ce0cc657\""
+  },
+  {
+    "key": "reporting/market_data_2024-09-11.json",
+    "size": 4024910,
+    "last_modified": "2024-09-12T10:44:36.000Z",
+    "etag": "\"934e6b8b244e2a32ef43a4e14e3f2c1b\""
+  },
+  {
+    "key": "reporting/market_data_2024-10-02.json",
+    "size": 4012176,
+    "last_modified": "2024-10-03T10:26:31.000Z",
+    "etag": "\"75c30a2500df603ec669bb7c4b444849\""
+  },
+  {
+    "key": "reporting/market_data_2024-10-04.json",
+    "size": 3519660,
+    "last_modified": "2024-10-05T10:19:16.000Z",
+    "etag": "\"29e03e831fedf8697580a7d941f35251\""
+  },
+  {
+    "key": "reporting/market_data_2024-10-05.json",
+    "size": 3060913,
+    "last_modified": "2024-10-06T10:04:34.000Z",
+    "etag": "\"b869481631e2650f4c1ab3a0a2b7d439\""
+  },
+  {
+    "key": "reporting/market_data_2024-10-14.json",
+    "size": 3649987,
+    "last_modified": "2024-10-15T10:33:20.000Z",
+    "etag": "\"edaed702f50d19fb1255e78a1a140371\""
+  },
+  {
+    "key": "reporting/market_data_2024-10-17.json",
+    "size": 3590226,
+    "last_modified": "2024-10-18T16:11:44.000Z",
+    "etag": "\"75644e5fa3f881e09d45436c6c57c7c8\""
+  },
+  {
+    "key": "reporting/market_data_2024-10-23.json",
+    "size": 2685483,
+    "last_modified": "2024-10-24T20:07:39.000Z",
+    "etag": "\"21a0c9062c37fc5a65e038dc80c7be62\""
+  },
+  {
+    "key": "reporting/market_data_2024-10-29.json",
+    "size": 2583290,
+    "last_modified": "2024-10-30T13:38:51.000Z",
+    "etag": "\"33879f6556d5c5edc90985539e15238b\""
+  },
+  {
+    "key": "reporting/market_data_2024-11-09.json",
+    "size": 3101008,
+    "last_modified": "2024-11-10T08:27:20.000Z",
+    "etag": "\"6db30520a5c25fe476c70626f0a1d9de\""
+  },
+  {
+    "key": "reporting/market_data_2024-11-12.json",
+    "size": 3663970,
+    "last_modified": "2024-11-13T14:47:42.000Z",
+    "etag": "\"171f99834563dec420a5ee1af8c2bd28\""
+  },
+  {
+    "key": "reporting/market_data_2024-11-17.json",
+    "size": 3417965,
+    "last_modified": "2024-11-18T06:25:27.000Z",
+    "etag": "\"08a3f7af3c8c13840df0d75b8431a3bf\""
+  },
+  {
+    "key": "reporting/market_data_2024-11-22.json",
+    "size": 4297984,
+    "last_modified": "2024-11-23T07:06:51.000Z",
+    "etag": "\"1678d9bf690648dfd4be37495c89517b\""
+  },
+  {
+    "key": "reporting/market_data_2024-12-03.json",
+    "size": 4665585,
+    "last_modified": "2024-12-04T06:52:36.000Z",
+    "etag": "\"e28c55aefc6c453338f7ee73864b71de\""
+  },
+  {
+    "key": "reporting/market_data_2024-12-06.json",
+    "size": 4868286,
+    "last_modified": "2024-12-07T06:53:45.000Z",
+    "etag": "\"32ff8d20f45e083222f0e5c7cb2ae963\""
+  },
+  {
+    "key": "reporting/market_data_2024-12-08.json",
+    "size": 4845952,
+    "last_modified": "2024-12-09T06:33:37.000Z",
+    "etag": "\"bd0ff2e040c6f5dc08b4df2a8d044c58\""
+  },
+  {
+    "key": "reporting/market_data_2024-12-12.json",
+    "size": 6105161,
+    "last_modified": "2024-12-13T07:24:09.000Z",
+    "etag": "\"39074f31193f33d2cafad9f6f7e74d61\""
+  },
+  {
+    "key": "reporting/market_data_2024-12-13.json",
+    "size": 6328393,
+    "last_modified": "2025-10-14T21:32:30.000Z",
+    "etag": "\"acf5ec8942bbc295f0c752ec0f05f3b0\""
+  },
+  {
+    "key": "reporting/market_data_2024-12-17.json",
+    "size": 9202327,
+    "last_modified": "2024-12-18T07:36:12.000Z",
+    "etag": "\"5ba8e31400bc3a2617ca1a5c9fa71b4d-2\""
+  },
+  {
+    "key": "reporting/market_data_2024-12-24.json",
+    "size": 10247105,
+    "last_modified": "2024-12-25T07:24:08.000Z",
+    "etag": "\"d0af33665afc1d15516def40a5c21b09-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-01-08.json",
+    "size": 11991815,
+    "last_modified": "2025-01-09T08:54:45.000Z",
+    "etag": "\"f6edea0b602889336860814f3c2c767a-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-01-13.json",
+    "size": 12805349,
+    "last_modified": "2025-01-14T09:10:45.000Z",
+    "etag": "\"4ba6c0d15cb1ee71a91e691e0a47f030-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-01-17.json",
+    "size": 12986570,
+    "last_modified": "2025-01-18T09:19:35.000Z",
+    "etag": "\"da160c15e5612732e13dc75b27183550-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-01-19.json",
+    "size": 12373748,
+    "last_modified": "2025-01-20T09:14:18.000Z",
+    "etag": "\"8a9bc3d9faeb26ae24299a0a1e12cc13-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-01-29.json",
+    "size": 13058583,
+    "last_modified": "2025-01-30T23:07:16.000Z",
+    "etag": "\"353dacb5da6af62129edb5096aa5ec17-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-02-07.json",
+    "size": 13986222,
+    "last_modified": "2025-02-08T09:39:45.000Z",
+    "etag": "\"39aacb57bb5e992a5410d462099c25ee-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-02-20.json",
+    "size": 16785320,
+    "last_modified": "2025-02-21T06:14:20.000Z",
+    "etag": "\"ef2ecf4be51200869ee208cf3b67d4a2-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-02-26.json",
+    "size": 18293849,
+    "last_modified": "2025-02-27T06:13:33.000Z",
+    "etag": "\"98266d55e361419046d2f06327a6d66d-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-03-01.json",
+    "size": 17994961,
+    "last_modified": "2025-03-02T06:14:06.000Z",
+    "etag": "\"95e3d0b2daa0cc5494d8af4826426fdb-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-03-09.json",
+    "size": 20145042,
+    "last_modified": "2025-03-10T05:10:39.000Z",
+    "etag": "\"d2950fa51bfe24cb5163e90003ed1f67-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-03-17.json",
+    "size": 21281530,
+    "last_modified": "2025-03-18T05:10:10.000Z",
+    "etag": "\"5ceccb2aad41bce3876cb3177e719a03-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-03-20.json",
+    "size": 21348349,
+    "last_modified": "2025-03-21T05:14:12.000Z",
+    "etag": "\"a82a38927a66bb7dcbe8967ec284326b-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-03-30.json",
+    "size": 20754914,
+    "last_modified": "2025-03-31T05:12:16.000Z",
+    "etag": "\"1c17e51d640f76a9678c055a4afb8b03-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-04-01.json",
+    "size": 21874540,
+    "last_modified": "2025-10-14T21:32:14.000Z",
+    "etag": "\"8778aca3bb18bb00a8ba1f1a4aee6816-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-04-14.json",
+    "size": 24817522,
+    "last_modified": "2025-04-15T05:11:52.000Z",
+    "etag": "\"b940bd0780c809a03e9aeadb82512adc-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-05-01.json",
+    "size": 26203432,
+    "last_modified": "2025-05-02T05:21:17.000Z",
+    "etag": "\"b720aac15f2ec3567be5f48537bf2306-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-05-15.json",
+    "size": 26679937,
+    "last_modified": "2025-05-16T18:14:35.000Z",
+    "etag": "\"4f34f86897f53e908959e81df062a9f8-2\""
+  },
+  {
+    "key": "reporting/market_data_2025-05-24.json",
+    "size": 25363138,
+    "last_modified": "2025-05-25T05:15:05.000Z",
+    "etag": "\"8b5df7488c66d15fc8e1f7d5b8f9d76d-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-06-07.json",
+    "size": 26092587,
+    "last_modified": "2025-06-08T05:16:14.000Z",
+    "etag": "\"45c7c40451fac72ffd1ec11bf9c3c061-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-06-21.json",
+    "size": 24947816,
+    "last_modified": "2025-06-22T05:17:43.000Z",
+    "etag": "\"72361fa4c00765b39eed6912670d6081-3\""
+  },
+  {
+    "key": "reporting/market_data_2025-06-23.json",
+    "size": 27067497,
+    "last_modified": "2025-06-24T17:00:33.000Z",
+    "etag": "\"cb23d6bd50a75d4edb8de480a5326c68-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-07-10.json",
+    "size": 27474638,
+    "last_modified": "2025-07-11T05:19:50.000Z",
+    "etag": "\"61d3c46e4a2d4d77676efeb3442ebb48-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-07-25.json",
+    "size": 29614067,
+    "last_modified": "2025-07-26T05:19:09.000Z",
+    "etag": "\"a093f990d12686a0443dc4dea0c2e811-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-07-26.json",
+    "size": 27987511,
+    "last_modified": "2025-07-27T05:19:16.000Z",
+    "etag": "\"6be14a48e1c15d82f2837cc49bb551ce-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-07-27.json",
+    "size": 28398392,
+    "last_modified": "2025-07-28T05:19:35.000Z",
+    "etag": "\"8730a256a540b7d898e97077a87ac824-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-08-03.json",
+    "size": 28676571,
+    "last_modified": "2025-08-04T05:20:11.000Z",
+    "etag": "\"c32def6fd792367208e0b9429ff57077-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-08-08.json",
+    "size": 30156494,
+    "last_modified": "2025-08-09T05:20:26.000Z",
+    "etag": "\"54c668e09946a2bf68af3fca6c4cdedd-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-08-11.json",
+    "size": 30680014,
+    "last_modified": "2025-08-12T05:18:42.000Z",
+    "etag": "\"fd73d2828c223e4b40dc2207979ec8b0-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-08-22.json",
+    "size": 31414126,
+    "last_modified": "2025-08-23T05:27:28.000Z",
+    "etag": "\"89c671d833a6a900ce8ac303c9a17442-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-09-07.json",
+    "size": 29346895,
+    "last_modified": "2025-09-08T05:23:25.000Z",
+    "etag": "\"cb95fac589f66ba8803a255f524ee96f-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-09-12.json",
+    "size": 32748588,
+    "last_modified": "2025-09-13T05:04:15.000Z",
+    "etag": "\"2876fbe4f5ed6d7f3bd41175b496654c-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-09-21.json",
+    "size": 32665505,
+    "last_modified": "2025-09-22T05:08:34.000Z",
+    "etag": "\"6dcaf67fc8e39ea7d785f298eb37339a-4\""
+  },
+  {
+    "key": "reporting/market_data_2025-09-25.json",
+    "size": 34727217,
+    "last_modified": "2025-09-26T05:18:53.000Z",
+    "etag": "\"07067206827285a758ddc021b80fbc3e-5\""
+  },
+  {
+    "key": "reporting/market_data_2025-10-03.json",
+    "size": 43724193,
+    "last_modified": "2025-10-04T05:06:33.000Z",
+    "etag": "\"0518dcc4d3a8a876b60cd8597756e378-6\""
+  },
+  {
+    "key": "reporting/market_data_2025-10-08.json",
+    "size": 76017981,
+    "last_modified": "2025-10-09T06:26:46.000Z",
+    "etag": "\"b9b5ae2b51ce24de8a2d5569d92e8e11-10\""
+  },
+  {
+    "key": "reporting/market_data_2025-10-20.json",
+    "size": 249207071,
+    "last_modified": "2025-10-21T05:22:09.000Z",
+    "etag": "\"20b457f6c4ab3271dbe3b6be8dd1a4a0-30\""
+  },
+  {
+    "key": "reporting/market_data_2025-10-29.json",
+    "size": 331998275,
+    "last_modified": "2025-10-30T05:26:35.000Z",
+    "etag": "\"73f5a05e3b8de0c9039c3f0b03ff90ba-40\""
+  },
+  {
+    "key": "reporting/market_data_2025-11-01.json",
+    "size": 360663346,
+    "last_modified": "2025-11-02T06:27:12.000Z",
+    "etag": "\"03c75a1b704032cdda11affb5ae2197d-43\""
+  },
+  {
+    "key": "reporting/market_data_2025-11-07.json",
+    "size": 366179212,
+    "last_modified": "2025-11-08T06:28:07.000Z",
+    "etag": "\"8d7e0187c649a52e7190c4f63f854440-44\""
+  },
+  {
+    "key": "reporting/market_data_2025-11-13.json",
+    "size": 413762964,
+    "last_modified": "2025-11-14T06:28:01.000Z",
+    "etag": "\"934f7d14f7c7bcb620f57547312c6c00-50\""
+  },
+  {
+    "key": "reporting/market_data_2025-11-18.json",
+    "size": 414291006,
+    "last_modified": "2025-11-19T06:29:57.000Z",
+    "etag": "\"ac759d0b87eb214ceef1dd5e70f4b6f7-50\""
+  },
+  {
+    "key": "reporting/market_data_2025-11-23.json",
+    "size": 578454348,
+    "last_modified": "2025-11-24T16:42:01.000Z",
+    "etag": "\"328bddc06557d66f687365772f616777-69\""
+  },
+  {
+    "key": "reporting/market_data_2025-12-08.json",
+    "size": 935388874,
+    "last_modified": "2025-12-09T06:57:12.000Z",
+    "etag": "\"fa12ed4aab87e8d838cd98c2d092e3c3-112\""
+  },
+  {
+    "key": "reporting/market_data_2025-12-23.json",
+    "size": 1345261932,
+    "last_modified": "2025-12-24T07:13:48.000Z",
+    "etag": "\"d60bc88c5661695ce392d38dfaaac5e7-161\""
+  },
+  {
+    "key": "reporting/market_data_2026-01-06.json",
+    "size": 1833219768,
+    "last_modified": "2026-01-07T07:30:14.000Z",
+    "etag": "\"176756688adc3d6f1f6b8a10d4e89c76-219\""
+  },
+  {
+    "key": "reporting/market_data_2026-01-16.json",
+    "size": 2099496807,
+    "last_modified": "2026-01-17T16:48:30.000Z",
+    "etag": "\"0959ebbb69493f4edfeffc36dd2f2b1b-251\""
+  },
+  {
+    "key": "reporting/market_data_2026-01-17.json",
+    "size": 2058740615,
+    "last_modified": "2026-01-18T08:10:36.000Z",
+    "etag": "\"5b94bec4be5f46a2bc1afe7839e382b9-246\""
+  },
+  {
+    "key": "reporting/market_data_2026-01-27.json",
+    "size": 641658331,
+    "last_modified": "2026-01-28T06:52:40.000Z",
+    "etag": "\"ccdc1319d6f3d212c550af4da2149b60-77\""
+  },
+  {
+    "key": "reporting/market_data_2026-01-29.json",
+    "size": 488835304,
+    "last_modified": "2026-01-30T06:31:11.000Z",
+    "etag": "\"f817f77b7c875db7206fc70de9277ed0-59\""
+  },
+  {
+    "key": "reporting/market_data_2026-02-16.json",
+    "size": 452601158,
+    "last_modified": "2026-02-17T06:33:38.000Z",
+    "etag": "\"653b8d59d9d2e7adc97227d230370b50-54\""
+  },
+  {
+    "key": "reporting/market_data_2026-02-25.json",
+    "size": 453088694,
+    "last_modified": "2026-02-27T04:20:50.000Z",
+    "etag": "\"397754f6eb1e9466f7b65447fdd379ea-55\""
+  },
+  {
+    "key": "reporting/market_data_2026-03-10.json",
+    "size": 595471495,
+    "last_modified": "2026-03-11T05:46:56.000Z",
+    "etag": "\"2c14548778719ea1eaa8517430ddd314-71\""
+  },
+  {
+    "key": "reporting/market_data_2026-03-19.json",
+    "size": 676089193,
+    "last_modified": "2026-03-20T15:31:45.000Z",
+    "etag": "\"6db3fc33f2a1ea1cea7b6678f3a51e26-81\""
+  },
+  {
+    "key": "reporting/market_data_2026-03-24.json",
+    "size": 700100067,
+    "last_modified": "2026-03-25T06:10:41.000Z",
+    "etag": "\"654c14846fbb0f61799443864dbab70b-84\""
+  },
+  {
+    "key": "reporting/market_data_2026-04-05.json",
+    "size": 607086723,
+    "last_modified": "2026-04-06T06:16:15.000Z",
+    "etag": "\"7fd14e524f372b345331262139dbb57f-73\""
+  },
+  {
+    "key": "reporting/market_data_2026-04-19.json",
+    "size": 589300829,
+    "last_modified": "2026-04-20T05:45:45.000Z",
+    "etag": "\"576feaeecd5aa2ebf4c713f93c0f988e-71\""
+  },
+  {
+    "key": "reporting/market_data_2026-04-29.json",
+    "size": 645082710,
+    "last_modified": "2026-04-30T06:18:43.000Z",
+    "etag": "\"af781d32718a3fd28713abfbb1b77656-77\""
+  },
+  {
+    "key": "reporting/market_data_2026-05-06.json",
+    "size": 694647771,
+    "last_modified": "2026-05-07T06:23:08.000Z",
+    "etag": "\"174c5fc198424120494dd2827cd6acac-83\""
+  },
+  {
+    "key": "reporting/market_data_2026-05-08.json",
+    "size": 706075597,
+    "last_modified": "2026-05-09T06:26:11.000Z",
+    "etag": "\"b824a3a1938fe588bb28d82ccfe5f542-85\""
+  },
+  {
+    "key": "reporting/market_data_2026-05-09.json",
+    "size": 715356070,
+    "last_modified": "2026-05-10T06:32:55.000Z",
+    "etag": "\"14b1c88ff41c03e036271d1615fef330-86\""
+  },
+  {
+    "key": "reporting/market_data_2026-05-19.json",
+    "size": 657542670,
+    "last_modified": "2026-05-20T06:25:14.000Z",
+    "etag": "\"474b8ce0d5524bd7122284511cbd250d-79\""
+  },
+  {
+    "key": "reporting/market_data_2026-05-20.json",
+    "size": 663437010,
+    "last_modified": "2026-05-21T06:22:45.000Z",
+    "etag": "\"f0a3e17e6d90f824118cba2502a595a2-80\""
+  },
+  {
+    "key": "reporting/market_data_2026-05-26.json",
+    "size": 592732572,
+    "last_modified": "2026-05-27T06:17:51.000Z",
+    "etag": "\"1e1341a4545e87cc4095e4c0463d1c69-71\""
+  },
+  {
+    "key": "reporting/market_data_2026-06-04.json",
+    "size": 553853563,
+    "last_modified": "2026-06-05T06:18:52.000Z",
+    "etag": "\"b4c6c8a1cf8e5b4ee85d463a66a4c3bb-67\""
+  },
+  {
+    "key": "reporting/market_data_2026-06-05.json",
+    "size": 573265905,
+    "last_modified": "2026-06-06T06:34:49.000Z",
+    "etag": "\"2f65ab4f2e60d3c9fe6409e3a3a124dd-69\""
+  },
+  {
+    "key": "reporting/market_data_2026-06-16.json",
+    "size": 791512181,
+    "last_modified": "2026-06-27T02:02:11.000Z",
+    "etag": "\"39ad57a81f5ebcc1060702463d4a7f05-95\""
+  },
+  {
+    "key": "reporting/market_data_2026-06-21.json",
+    "size": 974565028,
+    "last_modified": "2026-06-22T08:39:00.000Z",
+    "etag": "\"24a1cf50eb8c91b45a62cba5ace7a24c-117\""
+  },
+  {
+    "key": "reporting/market_data_2026-07-03.json",
+    "size": 1612621763,
+    "last_modified": "2026-07-04T10:31:18.000Z",
+    "etag": "\"5036abd041b4e77981944b845d4e1a31-193\""
+  },
+  {
+    "key": "reporting/market_data_2026-07-08.json",
+    "size": 1753491358,
+    "last_modified": "2026-07-09T11:19:18.000Z",
+    "etag": "\"b7232f12d715c96f7d7264ebdd40278e-210\""
+  },
+  {
+    "key": "reporting/market_data_2026-07-20.json",
+    "size": 1741057916,
+    "last_modified": "2026-07-21T06:16:08.000Z",
+    "etag": "\"f263eaa798b753e058eb472b5b3b5775-208\""
+  },
+  {
+    "key": "reporting/market_data_2026-07-25.json",
+    "size": 1851381690,
+    "last_modified": "2026-07-26T07:19:58.000Z",
+    "etag": "\"6a1793f6a9d083f6041953d1e74e8abc-221\""
+  },
+  {
+    "key": "reporting/market_data_2026-08-07.json.gz",
+    "size": 71061966,
+    "last_modified": "2026-08-08T06:17:12.000Z",
+    "etag": "\"163e9cd8081e96af616bf91766ede2cb-9\""
+  },
+  {
+    "key": "reporting/market_data_2026-08-11.json.gz",
+    "size": 61786504,
+    "last_modified": "2026-08-12T06:09:36.000Z",
+    "etag": "\"e9062eda3b0efc493c99d9527512193c-8\""
+  },
+  {
+    "key": "reporting/market_data_2026-08-15.json.gz",
+    "size": 66131837,
+    "last_modified": "2026-08-16T06:19:27.000Z",
+    "etag": "\"7ae50164a23d8c74538b4847602bc4b1-8\""
+  },
+  {
+    "key": "reporting/market_data_2026-08-20.json.gz",
+    "size": 55874716,
+    "last_modified": "2026-08-21T06:04:35.000Z",
+    "etag": "\"03cb80f7d965896b1b78fc57fb08f867-7\""
+  },
+  {
+    "key": "reporting/market_data_2026-08-23.json.gz",
+    "size": 60402298,
+    "last_modified": "2026-08-24T07:35:09.000Z",
+    "etag": "\"8b5a9df821d8f2f2a922ea62c3eff56c-8\""
+  },
+  {
+    "key": "reporting/market_data_2026-08-26.json.gz",
+    "size": 58908899,
+    "last_modified": "2026-08-27T06:43:47.000Z",
+    "etag": "\"243569a97dd73e90e699e2696f36721f-8\""
+  },
+  {
+    "key": "reporting/market_data_2026-09-06.json.gz",
+    "size": 75054782,
+    "last_modified": "2026-09-07T07:10:42.000Z",
+    "etag": "\"4448600e917f1c3a554f99e0dbdd574f-9\""
+  },
+  {
+    "key": "reporting/market_data_2026-09-16.json.gz",
+    "size": 82775265,
+    "last_modified": "2026-09-17T07:19:18.000Z",
+    "etag": "\"11325d3f9388992a4b6a80c2b382121e-10\""
+  },
+  {
+    "key": "reporting/market_data_2026-09-19.json.gz",
+    "size": 107148277,
+    "last_modified": "2026-09-20T08:13:52.000Z",
+    "etag": "\"fd3e8b776e6391ba3902715b6c5dbbd3-13\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-06-22.json",
+    "size": 5324,
+    "last_modified": "2026-08-10T12:46:42.000Z",
+    "etag": "\"0586419f656ba252ee6e78ab037807a9\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-06-29.json",
+    "size": 6289,
+    "last_modified": "2026-08-10T12:47:23.000Z",
+    "etag": "\"928d91e29bb477543e997e7dc7d03f87\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-07-10.json",
+    "size": 6294,
+    "last_modified": "2026-08-10T12:48:26.000Z",
+    "etag": "\"65e65adf08c0597aabdd97c4f4428f4c\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-07-16.json",
+    "size": 6296,
+    "last_modified": "2026-08-10T12:49:02.000Z",
+    "etag": "\"e76b39a527c0313be18e5c67d81df579\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-07-25.json",
+    "size": 6291,
+    "last_modified": "2026-08-10T12:49:58.000Z",
+    "etag": "\"0dca78e5f3349e874123b66dc7e6a63a\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-07-28.json",
+    "size": 6295,
+    "last_modified": "2026-08-10T12:50:16.000Z",
+    "etag": "\"1471fb097f771a157fcea268639f61e3\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-08-12.json",
+    "size": 6298,
+    "last_modified": "2026-08-12T22:08:37.000Z",
+    "etag": "\"7ca8475e79b70207f94b9f7f7482ba78\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-08-15.json",
+    "size": 6293,
+    "last_modified": "2026-08-15T22:03:33.000Z",
+    "etag": "\"9c693bdec17474bec358155ed42ab7ae\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-08-21.json",
+    "size": 6308,
+    "last_modified": "2026-08-21T22:10:16.000Z",
+    "etag": "\"77fb0215df34e673e50fbaf49ca26312\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-08-22.json",
+    "size": 6310,
+    "last_modified": "2026-08-22T22:10:54.000Z",
+    "etag": "\"7b03cea7c72e1c524a90763e92d9ebf1\""
+  },
+  {
+    "key": "reporting/perps_market_data_2026-09-02.json",
+    "size": 8707,
+    "last_modified": "2026-09-02T22:06:59.000Z",
+    "etag": "\"3c267d4c918f04e55aa2a1c45d533e0c\""
+  },
+  {
+    "key": "reporting/trade_data_2021-07-01.json",
+    "size": 4303,
+    "last_modified": "2022-01-18T17:57:16.000Z",
+    "etag": "\"c43ea1368caf70eef36fa2c015ee2c39\""
+  },
+  {
+    "key": "reporting/trade_data_2021-07-07.json",
+    "size": 4537,
+    "last_modified": "2022-08-18T19:09:10.000Z",
+    "etag": "\"879974adc9d3ebd00a509d9964c1da65\""
+  },
+  {
+    "key": "reporting/trade_data_2021-07-16.json",
+    "size": 16221,
+    "last_modified": "2022-08-18T19:09:13.000Z",
+    "etag": "\"78b6ac0c27474d39da44935745111c67\""
+  },
+  {
+    "key": "reporting/trade_data_2021-07-25.json",
+    "size": 20334,
+    "last_modified": "2022-08-18T19:09:17.000Z",
+    "etag": "\"22baa2f33128463312cdbff27777bd84\""
+  },
+  {
+    "key": "reporting/trade_data_2021-08-25.json",
+    "size": 220214,
+    "last_modified": "2022-08-18T19:09:29.000Z",
+    "etag": "\"7b18431e17a206dd06cd6d96aae90566\""
+  },
+  {
+    "key": "reporting/trade_data_2021-09-10.json",
+    "size": 182994,
+    "last_modified": "2022-08-18T19:09:34.000Z",
+    "etag": "\"eb2bf18f3f599f06763ae90a13f8f184\""
+  },
+  {
+    "key": "reporting/trade_data_2021-09-12.json",
+    "size": 72012,
+    "last_modified": "2022-08-18T19:09:35.000Z",
+    "etag": "\"20aacb1f74fae8e807d12259d5be6a06\""
+  },
+  {
+    "key": "reporting/trade_data_2021-09-17.json",
+    "size": 72499,
+    "last_modified": "2022-08-18T19:09:37.000Z",
+    "etag": "\"c025fe55ff57a51cd6660db160b3c8dd\""
+  },
+  {
+    "key": "reporting/trade_data_2021-09-26.json",
+    "size": 114908,
+    "last_modified": "2022-08-18T19:09:42.000Z",
+    "etag": "\"a23bbce10a3e738e5aa4c5d14063808e\""
+  },
+  {
+    "key": "reporting/trade_data_2021-09-30.json",
+    "size": 157664,
+    "last_modified": "2022-08-18T19:09:43.000Z",
+    "etag": "\"c2901ef4e98382e6de87f084df5c53c8\""
+  },
+  {
+    "key": "reporting/trade_data_2021-10-04.json",
+    "size": 105015,
+    "last_modified": "2022-08-18T19:09:45.000Z",
+    "etag": "\"84ccc1643cf7e7e2841b9415845c52e3\""
+  },
+  {
+    "key": "reporting/trade_data_2021-10-05.json",
+    "size": 119066,
+    "last_modified": "2022-08-18T19:09:46.000Z",
+    "etag": "\"1319ee2c5b5fe487cd2f577f2ce71fba\""
+  },
+  {
+    "key": "reporting/trade_data_2021-10-07.json",
+    "size": 106980,
+    "last_modified": "2022-08-18T19:09:46.000Z",
+    "etag": "\"3c0ca0bc10152eb75712594df932175f\""
+  },
+  {
+    "key": "reporting/trade_data_2021-10-19.json",
+    "size": 194154,
+    "last_modified": "2022-08-18T19:09:51.000Z",
+    "etag": "\"2da9eb477de365c2c4ea96bcfe58baaa\""
+  },
+  {
+    "key": "reporting/trade_data_2021-10-26.json",
+    "size": 215124,
+    "last_modified": "2022-08-18T19:09:54.000Z",
+    "etag": "\"75851da495aa6e449ea1d1522c328481\""
+  },
+  {
+    "key": "reporting/trade_data_2021-10-30.json",
+    "size": 101241,
+    "last_modified": "2022-08-18T19:09:56.000Z",
+    "etag": "\"e56a0c6aeb32cb75a5ca953fa941f211\""
+  },
+  {
+    "key": "reporting/trade_data_2021-11-01.json",
+    "size": 151837,
+    "last_modified": "2022-08-18T19:09:56.000Z",
+    "etag": "\"fe060b5dffcf4dd77c113daeb4cbf8fd\""
+  },
+  {
+    "key": "reporting/trade_data_2021-11-14.json",
+    "size": 108822,
+    "last_modified": "2022-08-18T19:10:02.000Z",
+    "etag": "\"18aa324ced33add4b2abee08faf6ddb0\""
+  },
+  {
+    "key": "reporting/trade_data_2021-11-22.json",
+    "size": 141131,
+    "last_modified": "2022-08-18T19:10:09.000Z",
+    "etag": "\"d6d9bd705f368843af804e7635fa3f47\""
+  },
+  {
+    "key": "reporting/trade_data_2021-12-06.json",
+    "size": 191546,
+    "last_modified": "2022-08-18T19:10:15.000Z",
+    "etag": "\"91abfa3b575f360e5ad26aa330d731cf\""
+  },
+  {
+    "key": "reporting/trade_data_2021-12-09.json",
+    "size": 291287,
+    "last_modified": "2022-08-18T19:10:16.000Z",
+    "etag": "\"08a8a6f56f73a765e1e8e30fd0d002f3\""
+  },
+  {
+    "key": "reporting/trade_data_2021-12-21.json",
+    "size": 269796,
+    "last_modified": "2022-08-18T19:10:22.000Z",
+    "etag": "\"d9bd07445f69246f1146636676e221ca\""
+  },
+  {
+    "key": "reporting/trade_data_2021-12-29.json",
+    "size": 212133,
+    "last_modified": "2022-08-18T19:10:27.000Z",
+    "etag": "\"ef54f351f6a1ae7818fb92f9e3325f08\""
+  },
+  {
+    "key": "reporting/trade_data_2022-01-09.json",
+    "size": 187525,
+    "last_modified": "2022-08-18T19:10:32.000Z",
+    "etag": "\"aa9acd9d2f81372eb399d2749c11847b\""
+  },
+  {
+    "key": "reporting/trade_data_2022-01-14.json",
+    "size": 353701,
+    "last_modified": "2022-08-18T19:10:34.000Z",
+    "etag": "\"f7189841cc1d52a13274e1ef7df371b7\""
+  },
+  {
+    "key": "reporting/trade_data_2022-01-19.json",
+    "size": 311143,
+    "last_modified": "2022-08-18T19:10:35.000Z",
+    "etag": "\"321f48f5f22279b96c543db384b8c2d8\""
+  },
+  {
+    "key": "reporting/trade_data_2022-02-01.json",
+    "size": 244196,
+    "last_modified": "2022-08-18T19:10:41.000Z",
+    "etag": "\"673a20b9d79ee377957cfe84cf72ff4a\""
+  },
+  {
+    "key": "reporting/trade_data_2022-02-02.json",
+    "size": 238223,
+    "last_modified": "2022-08-18T19:10:41.000Z",
+    "etag": "\"ac502a62f4f7893105d62fd928e7a8fc\""
+  },
+  {
+    "key": "reporting/trade_data_2022-02-04.json",
+    "size": 299314,
+    "last_modified": "2022-08-18T19:10:42.000Z",
+    "etag": "\"bf68e40e8b166a5521435ec69e6f3e5d\""
+  },
+  {
+    "key": "reporting/trade_data_2022-02-28.json",
+    "size": 265349,
+    "last_modified": "2022-08-18T19:10:53.000Z",
+    "etag": "\"ab185ff4311282d3280fa3ba04b85d0d\""
+  },
+  {
+    "key": "reporting/trade_data_2022-03-11.json",
+    "size": 238808,
+    "last_modified": "2022-08-18T19:10:58.000Z",
+    "etag": "\"7424bd618fe8342082e0b54fcd84ef20\""
+  },
+  {
+    "key": "reporting/trade_data_2022-03-18.json",
+    "size": 195270,
+    "last_modified": "2022-08-18T19:11:00.000Z",
+    "etag": "\"8ceafc2d4143bae764acee4e36b5b153\""
+  },
+  {
+    "key": "reporting/trade_data_2022-03-22.json",
+    "size": 308490,
+    "last_modified": "2022-08-18T19:11:02.000Z",
+    "etag": "\"fc821c1e6f0b06d3708423dd40e07c8f\""
+  },
+  {
+    "key": "reporting/trade_data_2022-03-23.json",
+    "size": 278479,
+    "last_modified": "2022-08-18T19:11:03.000Z",
+    "etag": "\"5a82a4d40b2e7d772703da2cf42253b7\""
+  },
+  {
+    "key": "reporting/trade_data_2022-04-08.json",
+    "size": 168383,
+    "last_modified": "2022-08-18T19:11:12.000Z",
+    "etag": "\"b0192db663e74c7afce19f17ac19a323\""
+  },
+  {
+    "key": "reporting/trade_data_2022-04-11.json",
+    "size": 163024,
+    "last_modified": "2022-08-18T19:11:13.000Z",
+    "etag": "\"fc69f1321944c6e61933773310f3d151\""
+  },
+  {
+    "key": "reporting/trade_data_2022-04-17.json",
+    "size": 93147,
+    "last_modified": "2022-08-18T19:11:17.000Z",
+    "etag": "\"d08691e09f9049d17811b93792f2326b\""
+  },
+  {
+    "key": "reporting/trade_data_2022-04-18.json",
+    "size": 334267,
+    "last_modified": "2022-08-18T19:11:17.000Z",
+    "etag": "\"9b99e921037d80da47f4f4bdbbe9d2e0\""
+  },
+  {
+    "key": "reporting/trade_data_2022-04-21.json",
+    "size": 248784,
+    "last_modified": "2022-08-18T19:11:19.000Z",
+    "etag": "\"1837815e1c10e9274837e166f789bafe\""
+  },
+  {
+    "key": "reporting/trade_data_2022-04-28.json",
+    "size": 554195,
+    "last_modified": "2022-08-18T19:11:21.000Z",
+    "etag": "\"04fa2336ea19207d2e2e90ccac45f4c3\""
+  },
+  {
+    "key": "reporting/trade_data_2022-05-03.json",
+    "size": 462971,
+    "last_modified": "2022-08-18T19:11:24.000Z",
+    "etag": "\"b146a7b37998c08732c83b2f6d382e95\""
+  },
+  {
+    "key": "reporting/trade_data_2022-05-10.json",
+    "size": 514912,
+    "last_modified": "2022-08-18T19:11:26.000Z",
+    "etag": "\"83e9e887fd641d7004a7477dfaef1b49\""
+  },
+  {
+    "key": "reporting/trade_data_2022-05-23.json",
+    "size": 512622,
+    "last_modified": "2022-08-18T19:11:33.000Z",
+    "etag": "\"feed4faa438de950b21aa3c2022ae782\""
+  },
+  {
+    "key": "reporting/trade_data_2022-05-28.json",
+    "size": 164299,
+    "last_modified": "2022-08-18T19:11:36.000Z",
+    "etag": "\"90c3fd96ff9bdc8777269efe14c8f18a\""
+  },
+  {
+    "key": "reporting/trade_data_2022-06-10.json",
+    "size": 941741,
+    "last_modified": "2022-08-18T19:11:41.000Z",
+    "etag": "\"80c1deeea56c4ec83e4ef59909e484b2\""
+  },
+  {
+    "key": "reporting/trade_data_2022-06-11.json",
+    "size": 301248,
+    "last_modified": "2022-08-18T19:11:41.000Z",
+    "etag": "\"c5d8141ab753154d0d4635c26e3d5a98\""
+  },
+  {
+    "key": "reporting/trade_data_2022-06-12.json",
+    "size": 616277,
+    "last_modified": "2022-06-17T18:34:16.000Z",
+    "etag": "\"6f2c375185b466afa76dff79ba5e9598\""
+  },
+  {
+    "key": "reporting/trade_data_2022-06-14.json",
+    "size": 1128990,
+    "last_modified": "2022-06-17T18:34:18.000Z",
+    "etag": "\"a0cd6042ece146da7d74671f96570270\""
+  },
+  {
+    "key": "reporting/trade_data_2022-07-11.json",
+    "size": 694034,
+    "last_modified": "2022-08-18T19:11:49.000Z",
+    "etag": "\"41c00f32429b20aba9553f2f112801eb\""
+  },
+  {
+    "key": "reporting/trade_data_2022-07-13.json",
+    "size": 1679364,
+    "last_modified": "2022-08-18T19:11:50.000Z",
+    "etag": "\"67cd39ba07b9a92805c779a2f39c00ee\""
+  },
+  {
+    "key": "reporting/trade_data_2022-07-15.json",
+    "size": 705307,
+    "last_modified": "2022-08-18T19:11:51.000Z",
+    "etag": "\"543b791f6b1b194dd48e797e118574d6\""
+  },
+  {
+    "key": "reporting/trade_data_2022-07-21.json",
+    "size": 650818,
+    "last_modified": "2022-07-22T06:43:11.000Z",
+    "etag": "\"3f46ac11c86ea58900f7f0789d083b27\""
+  },
+  {
+    "key": "reporting/trade_data_2022-07-31.json",
+    "size": 256945,
+    "last_modified": "2022-08-01T06:38:28.000Z",
+    "etag": "\"0a07295598c187e9646002afcc6dfa16\""
+  },
+  {
+    "key": "reporting/trade_data_2022-08-02.json",
+    "size": 733253,
+    "last_modified": "2022-08-03T06:45:29.000Z",
+    "etag": "\"ed52a85b27a99d37557c756994babaf7\""
+  },
+  {
+    "key": "reporting/trade_data_2022-08-04.json",
+    "size": 779397,
+    "last_modified": "2022-08-05T06:45:47.000Z",
+    "etag": "\"20f878b05c7380ac0b78c689ea68924c\""
+  },
+  {
+    "key": "reporting/trade_data_2022-08-08.json",
+    "size": 775926,
+    "last_modified": "2022-08-09T06:47:27.000Z",
+    "etag": "\"56ed74e1bffb69c56473757c02302208\""
+  },
+  {
+    "key": "reporting/trade_data_2022-08-11.json",
+    "size": 986868,
+    "last_modified": "2022-08-18T19:11:53.000Z",
+    "etag": "\"9fe231c1f1682c3d6a1090f04e3f4c71\""
+  },
+  {
+    "key": "reporting/trade_data_2022-08-16.json",
+    "size": 1289430,
+    "last_modified": "2022-08-18T19:11:56.000Z",
+    "etag": "\"e05281ecfaddcfcf4adabe770f4ebc53\""
+  },
+  {
+    "key": "reporting/trade_data_2022-08-21.json",
+    "size": 361164,
+    "last_modified": "2022-08-26T16:06:48.000Z",
+    "etag": "\"0177718cb383860b1a0a8e8f632dd773\""
+  },
+  {
+    "key": "reporting/trade_data_2022-10-09.json",
+    "size": 154159,
+    "last_modified": "2022-10-10T07:04:58.000Z",
+    "etag": "\"d2ecf7d84277b3bd053684455d1e2be9\""
+  },
+  {
+    "key": "reporting/trade_data_2022-10-11.json",
+    "size": 765571,
+    "last_modified": "2022-10-12T07:26:00.000Z",
+    "etag": "\"1b3a89afc541e7eb21f85ea179ea0966\""
+  },
+  {
+    "key": "reporting/trade_data_2022-10-30.json",
+    "size": 131062,
+    "last_modified": "2022-10-31T07:04:30.000Z",
+    "etag": "\"c534b7152caf66de7ec4e12ac8f4bd04\""
+  },
+  {
+    "key": "reporting/trade_data_2022-10-31.json",
+    "size": 668808,
+    "last_modified": "2022-11-01T07:21:33.000Z",
+    "etag": "\"319291d2aa8f76954e8b95452d08eea4\""
+  },
+  {
+    "key": "reporting/trade_data_2022-11-14.json",
+    "size": 594073,
+    "last_modified": "2022-11-15T07:22:00.000Z",
+    "etag": "\"a7436c7443cd53d595db3a5cdb308630\""
+  },
+  {
+    "key": "reporting/trade_data_2022-11-19.json",
+    "size": 124426,
+    "last_modified": "2022-11-20T06:39:04.000Z",
+    "etag": "\"9e842895c0aa729b5f9db6489ec05c6c\""
+  },
+  {
+    "key": "reporting/trade_data_2022-11-22.json",
+    "size": 606713,
+    "last_modified": "2022-11-23T06:46:26.000Z",
+    "etag": "\"7a3f8244d4dc97ecfd8a77ead6f09ebf\""
+  },
+  {
+    "key": "reporting/trade_data_2022-11-26.json",
+    "size": 125042,
+    "last_modified": "2022-11-27T06:39:17.000Z",
+    "etag": "\"5725a81caea7d7c26b518386d9d15460\""
+  },
+  {
+    "key": "reporting/trade_data_2022-12-11.json",
+    "size": 131828,
+    "last_modified": "2022-12-12T06:41:51.000Z",
+    "etag": "\"9f7e12d51e365efbf0ff7ea3623c94c3\""
+  },
+  {
+    "key": "reporting/trade_data_2022-12-21.json",
+    "size": 424788,
+    "last_modified": "2022-12-22T06:48:57.000Z",
+    "etag": "\"76f4b415877f789214deb20f2e2be114\""
+  },
+  {
+    "key": "reporting/trade_data_2022-12-30.json",
+    "size": 318582,
+    "last_modified": "2022-12-31T06:45:23.000Z",
+    "etag": "\"1c5b48c44d2821bab38e0c4070c02f8c\""
+  },
+  {
+    "key": "reporting/trade_data_2023-01-10.json",
+    "size": 384864,
+    "last_modified": "2023-01-11T06:45:00.000Z",
+    "etag": "\"0e773359c2b197e18d92d8ce11c3d9d1\""
+  },
+  {
+    "key": "reporting/trade_data_2023-02-15.json",
+    "size": 429910,
+    "last_modified": "2023-02-16T06:47:57.000Z",
+    "etag": "\"c1919e569ef09b8499e3c7635dfc28a9\""
+  },
+  {
+    "key": "reporting/trade_data_2023-02-17.json",
+    "size": 373872,
+    "last_modified": "2023-02-18T06:49:27.000Z",
+    "etag": "\"789d02a42d1e8994538df7e5e9f82d8e\""
+  },
+  {
+    "key": "reporting/trade_data_2023-02-22.json",
+    "size": 522094,
+    "last_modified": "2023-02-23T06:53:29.000Z",
+    "etag": "\"4b02cee1c9bd681359e583f747546d86\""
+  },
+  {
+    "key": "reporting/trade_data_2023-03-09.json",
+    "size": 2023455,
+    "last_modified": "2023-03-10T09:34:15.000Z",
+    "etag": "\"4770466df387f947e6f603b192def721\""
+  },
+  {
+    "key": "reporting/trade_data_2023-03-21.json",
+    "size": 937182,
+    "last_modified": "2023-03-22T09:28:12.000Z",
+    "etag": "\"a558aca42df9066e93807b1c4e576c7c\""
+  },
+  {
+    "key": "reporting/trade_data_2023-03-23.json",
+    "size": 1311797,
+    "last_modified": "2023-03-24T09:36:46.000Z",
+    "etag": "\"a3c18b46b3f5dcf5c4c7baccac15fba3\""
+  },
+  {
+    "key": "reporting/trade_data_2023-03-26.json",
+    "size": 152256,
+    "last_modified": "2023-03-27T09:15:55.000Z",
+    "etag": "\"f12db61b2c32fade59b310dd86797c4c\""
+  },
+  {
+    "key": "reporting/trade_data_2023-04-03.json",
+    "size": 1258275,
+    "last_modified": "2023-04-04T09:25:04.000Z",
+    "etag": "\"44575d283fe7bbc9574a2eee219b7ef6\""
+  },
+  {
+    "key": "reporting/trade_data_2023-04-10.json",
+    "size": 1172220,
+    "last_modified": "2023-04-11T09:27:14.000Z",
+    "etag": "\"75721c1952c3a31d56ca890d220670d4\""
+  },
+  {
+    "key": "reporting/trade_data_2023-04-12.json",
+    "size": 1354554,
+    "last_modified": "2023-04-13T09:26:48.000Z",
+    "etag": "\"340cc4f223441a5a7cebd0e4a40e16a5\""
+  },
+  {
+    "key": "reporting/trade_data_2023-04-26.json",
+    "size": 1033416,
+    "last_modified": "2023-04-27T09:22:21.000Z",
+    "etag": "\"cac8328674a4cbf79b4184d915f42bd4\""
+  },
+  {
+    "key": "reporting/trade_data_2023-05-06.json",
+    "size": 110370,
+    "last_modified": "2023-05-07T09:11:29.000Z",
+    "etag": "\"844a09ea2cb94639bf5bf5398a61208d\""
+  },
+  {
+    "key": "reporting/trade_data_2023-05-16.json",
+    "size": 1497114,
+    "last_modified": "2023-05-17T09:23:27.000Z",
+    "etag": "\"5de872ccf8f45edf4f3f6df8cae3a638\""
+  },
+  {
+    "key": "reporting/trade_data_2023-05-18.json",
+    "size": 1968813,
+    "last_modified": "2023-05-19T09:32:31.000Z",
+    "etag": "\"4b4ef614ab0c80db843870e7a561f100\""
+  },
+  {
+    "key": "reporting/trade_data_2023-06-06.json",
+    "size": 1424869,
+    "last_modified": "2023-06-07T09:29:43.000Z",
+    "etag": "\"d2fa420a882e271147a537141b7afa65\""
+  },
+  {
+    "key": "reporting/trade_data_2023-06-07.json",
+    "size": 1748287,
+    "last_modified": "2023-06-08T09:35:09.000Z",
+    "etag": "\"6455c09acc9b689499053399b9b4839e\""
+  },
+  {
+    "key": "reporting/trade_data_2023-06-12.json",
+    "size": 847932,
+    "last_modified": "2023-06-13T09:25:21.000Z",
+    "etag": "\"1c8a2994e11cb4e7c39ee391c7c4369f\""
+  },
+  {
+    "key": "reporting/trade_data_2023-06-14.json",
+    "size": 1563147,
+    "last_modified": "2023-06-15T09:34:35.000Z",
+    "etag": "\"0a1cd4a958c7983557f8cb53e26ebba3\""
+  },
+  {
+    "key": "reporting/trade_data_2023-06-20.json",
+    "size": 1371755,
+    "last_modified": "2023-06-21T09:24:18.000Z",
+    "etag": "\"b438aae7208aab1cc058642cba1f81a0\""
+  },
+  {
+    "key": "reporting/trade_data_2023-06-26.json",
+    "size": 2468575,
+    "last_modified": "2023-06-27T09:34:06.000Z",
+    "etag": "\"7c75dfdb4cc1e86b8adfe59b7f5c8f68\""
+  },
+  {
+    "key": "reporting/trade_data_2023-07-05.json",
+    "size": 1720864,
+    "last_modified": "2023-07-06T09:34:37.000Z",
+    "etag": "\"f9fbbd8a6d10eaeea01acc73a0b1d626\""
+  },
+  {
+    "key": "reporting/trade_data_2023-07-09.json",
+    "size": 227708,
+    "last_modified": "2023-07-10T09:17:17.000Z",
+    "etag": "\"602d6c4881e7afca26ecabfb4b870cc9\""
+  },
+  {
+    "key": "reporting/trade_data_2023-07-23.json",
+    "size": 137062,
+    "last_modified": "2023-07-24T09:14:46.000Z",
+    "etag": "\"ce20f120c85f6f0fb87bf79b5a965049\""
+  },
+  {
+    "key": "reporting/trade_data_2023-08-19.json",
+    "size": 65340,
+    "last_modified": "2023-08-20T09:13:08.000Z",
+    "etag": "\"4f5404ebff2718957505fade0ce0fef8\""
+  },
+  {
+    "key": "reporting/trade_data_2023-08-22.json",
+    "size": 760779,
+    "last_modified": "2023-08-23T09:28:46.000Z",
+    "etag": "\"47f88712614e2ce2fce24f7942c9ffd1\""
+  },
+  {
+    "key": "reporting/trade_data_2023-08-23.json",
+    "size": 711077,
+    "last_modified": "2023-08-24T09:38:12.000Z",
+    "etag": "\"5fda7b6390db8130e9d77b6a14192fb7\""
+  },
+  {
+    "key": "reporting/trade_data_2023-08-25.json",
+    "size": 982040,
+    "last_modified": "2023-08-26T09:35:53.000Z",
+    "etag": "\"bb477b187832d1c54355bfcb1582d25a\""
+  },
+  {
+    "key": "reporting/trade_data_2023-08-31.json",
+    "size": 666860,
+    "last_modified": "2023-09-01T09:28:47.000Z",
+    "etag": "\"eb2558fd419e00c83d1f500945dd67f7\""
+  },
+  {
+    "key": "reporting/trade_data_2023-09-11.json",
+    "size": 636045,
+    "last_modified": "2023-09-12T09:25:13.000Z",
+    "etag": "\"4abe8e8b06f2eebbdca3b22814645439\""
+  },
+  {
+    "key": "reporting/trade_data_2023-09-23.json",
+    "size": 83785,
+    "last_modified": "2023-09-24T09:16:16.000Z",
+    "etag": "\"fd697c9e8f1483416f5e91f95e165a87\""
+  },
+  {
+    "key": "reporting/trade_data_2023-09-25.json",
+    "size": 875125,
+    "last_modified": "2023-09-26T09:30:11.000Z",
+    "etag": "\"f053aecbc450695a3d0a937ad0b7e185\""
+  },
+  {
+    "key": "reporting/trade_data_2023-09-29.json",
+    "size": 950974,
+    "last_modified": "2023-09-30T09:31:58.000Z",
+    "etag": "\"fc1f96d7b18391e74ae31d69febc5394\""
+  },
+  {
+    "key": "reporting/trade_data_2023-10-06.json",
+    "size": 1088917,
+    "last_modified": "2023-10-07T09:29:24.000Z",
+    "etag": "\"0918405b22404161665a1f9186c6425a\""
+  },
+  {
+    "key": "reporting/trade_data_2023-10-09.json",
+    "size": 873222,
+    "last_modified": "2023-10-10T09:26:01.000Z",
+    "etag": "\"c7ae3704bd078f11d38b160a321cd208\""
+  },
+  {
+    "key": "reporting/trade_data_2023-10-20.json",
+    "size": 1178603,
+    "last_modified": "2023-10-21T09:29:52.000Z",
+    "etag": "\"0f665d7e2fc083764d86693a4b9234ab\""
+  },
+  {
+    "key": "reporting/trade_data_2023-10-26.json",
+    "size": 1513972,
+    "last_modified": "2023-10-27T09:31:20.000Z",
+    "etag": "\"52c9808a8255f1de7afbf33b031b36b0\""
+  },
+  {
+    "key": "reporting/trade_data_2023-10-28.json",
+    "size": 96110,
+    "last_modified": "2023-10-29T09:15:06.000Z",
+    "etag": "\"6671bf6842b73da96f457de492860912\""
+  },
+  {
+    "key": "reporting/trade_data_2023-11-29.json",
+    "size": 725619,
+    "last_modified": "2023-11-30T10:25:51.000Z",
+    "etag": "\"21385796d8062ece6c4108fd8b34e6de\""
+  },
+  {
+    "key": "reporting/trade_data_2023-12-07.json",
+    "size": 789055,
+    "last_modified": "2023-12-08T10:26:41.000Z",
+    "etag": "\"31bfa4d8efeedea6d21ce68d1733f918\""
+  },
+  {
+    "key": "reporting/trade_data_2023-12-12.json",
+    "size": 825535,
+    "last_modified": "2023-12-13T10:25:48.000Z",
+    "etag": "\"53e897b1f069d091efffba4299950d0a\""
+  },
+  {
+    "key": "reporting/trade_data_2023-12-21.json",
+    "size": 904026,
+    "last_modified": "2023-12-22T10:27:55.000Z",
+    "etag": "\"c08d3ea196be664471319e69f05aeafa\""
+  },
+  {
+    "key": "reporting/trade_data_2023-12-24.json",
+    "size": 90190,
+    "last_modified": "2023-12-25T10:16:03.000Z",
+    "etag": "\"9e0f85abe8b424fc3449bca95dc484ba\""
+  },
+  {
+    "key": "reporting/trade_data_2024-01-07.json",
+    "size": 173821,
+    "last_modified": "2024-01-08T10:15:26.000Z",
+    "etag": "\"21be76153b010e60ed1843885556bc09\""
+  },
+  {
+    "key": "reporting/trade_data_2024-01-24.json",
+    "size": 1387510,
+    "last_modified": "2024-01-25T10:33:10.000Z",
+    "etag": "\"f418935abebfdb2c71057962860b0fea\""
+  },
+  {
+    "key": "reporting/trade_data_2024-01-29.json",
+    "size": 1255809,
+    "last_modified": "2024-01-30T10:29:05.000Z",
+    "etag": "\"0b8d1f5a21fcc2f1cc3e8fbfd24aa89e\""
+  },
+  {
+    "key": "reporting/trade_data_2024-02-17.json",
+    "size": 136287,
+    "last_modified": "2024-02-18T10:17:21.000Z",
+    "etag": "\"53d1b97204fa6041a2ea2075621a6333\""
+  },
+  {
+    "key": "reporting/trade_data_2024-03-06.json",
+    "size": 1810924,
+    "last_modified": "2024-03-07T10:44:02.000Z",
+    "etag": "\"10d207745fea0d73f81fea4a61cf43f7\""
+  },
+  {
+    "key": "reporting/trade_data_2024-03-13.json",
+    "size": 1063442,
+    "last_modified": "2024-03-14T10:31:23.000Z",
+    "etag": "\"8d9113152f749cc7ead28198a60b7aa0\""
+  },
+  {
+    "key": "reporting/trade_data_2024-03-22.json",
+    "size": 1219938,
+    "last_modified": "2024-03-23T10:31:08.000Z",
+    "etag": "\"e94ba681b9d084cccd687fa0adf9d74d\""
+  },
+  {
+    "key": "reporting/trade_data_2024-04-11.json",
+    "size": 1109875,
+    "last_modified": "2024-04-12T11:36:38.000Z",
+    "etag": "\"c92132326dfba941e9c7a3344ee4bd17\""
+  },
+  {
+    "key": "reporting/trade_data_2024-04-17.json",
+    "size": 911706,
+    "last_modified": "2024-04-18T11:45:26.000Z",
+    "etag": "\"c43de4715b9be31924787d733ad70c81\""
+  },
+  {
+    "key": "reporting/trade_data_2024-04-26.json",
+    "size": 1299620,
+    "last_modified": "2024-04-27T11:31:20.000Z",
+    "etag": "\"da752f2f53b9589edf8c9aa723e4d88d\""
+  },
+  {
+    "key": "reporting/trade_data_2024-05-03.json",
+    "size": 1123610,
+    "last_modified": "2024-05-04T11:29:40.000Z",
+    "etag": "\"d87ceb2b6d81c9d94c18a4af7a9bc37d\""
+  },
+  {
+    "key": "reporting/trade_data_2024-05-19.json",
+    "size": 640122,
+    "last_modified": "2024-05-20T11:27:34.000Z",
+    "etag": "\"31d292b985b131d5a525274c48ced732\""
+  },
+  {
+    "key": "reporting/trade_data_2024-06-09.json",
+    "size": 622908,
+    "last_modified": "2024-06-10T11:31:27.000Z",
+    "etag": "\"a41af7ee85bd9b03e33ad755496ac695\""
+  },
+  {
+    "key": "reporting/trade_data_2024-06-17.json",
+    "size": 582161,
+    "last_modified": "2024-06-18T11:34:03.000Z",
+    "etag": "\"5dd6daa2051c8731c4f274ae0e5a1427\""
+  },
+  {
+    "key": "reporting/trade_data_2024-06-22.json",
+    "size": 175144,
+    "last_modified": "2024-06-23T10:58:44.000Z",
+    "etag": "\"47c51058e9120699f74406729190d784\""
+  },
+  {
+    "key": "reporting/trade_data_2024-07-16.json",
+    "size": 886567,
+    "last_modified": "2024-07-17T10:49:27.000Z",
+    "etag": "\"1d15e6eaac148ffac4f30ad308220878\""
+  },
+  {
+    "key": "reporting/trade_data_2024-07-24.json",
+    "size": 738301,
+    "last_modified": "2024-07-25T10:44:45.000Z",
+    "etag": "\"2c17f8bc724619c3bcac9b22d3ea0084\""
+  },
+  {
+    "key": "reporting/trade_data_2024-07-25.json",
+    "size": 835824,
+    "last_modified": "2024-07-26T10:42:15.000Z",
+    "etag": "\"28aedaee5bac27832e28dbcaea8ed2c1\""
+  },
+  {
+    "key": "reporting/trade_data_2024-08-02.json",
+    "size": 1090915,
+    "last_modified": "2024-08-03T10:42:47.000Z",
+    "etag": "\"61e87c080078707c9424927066059eed\""
+  },
+  {
+    "key": "reporting/trade_data_2024-08-06.json",
+    "size": 1001901,
+    "last_modified": "2024-08-07T10:30:26.000Z",
+    "etag": "\"18e45e84e2f16d4f6661dd484a80f1e7\""
+  },
+  {
+    "key": "reporting/trade_data_2024-08-09.json",
+    "size": 808042,
+    "last_modified": "2024-08-10T10:21:14.000Z",
+    "etag": "\"c482b589907e29f5511b37a5d30e6bef\""
+  },
+  {
+    "key": "reporting/trade_data_2024-09-01.json",
+    "size": 179206,
+    "last_modified": "2024-09-02T09:59:32.000Z",
+    "etag": "\"a4c5c9b1f3990b1a8a570c15973948f3\""
+  },
+  {
+    "key": "reporting/trade_data_2024-09-03.json",
+    "size": 885757,
+    "last_modified": "2024-09-04T10:27:58.000Z",
+    "etag": "\"40bf409ab8406a02d4617a5bf4e9d770\""
+  },
+  {
+    "key": "reporting/trade_data_2024-09-09.json",
+    "size": 924222,
+    "last_modified": "2024-09-10T10:24:24.000Z",
+    "etag": "\"4b6c7b0f298528a8e63545d7cfc9e824\""
+  },
+  {
+    "key": "reporting/trade_data_2024-10-02.json",
+    "size": 684694,
+    "last_modified": "2024-10-03T10:26:32.000Z",
+    "etag": "\"eb9e292203d14a2a590ad41432e87c10\""
+  },
+  {
+    "key": "reporting/trade_data_2024-10-07.json",
+    "size": 1054195,
+    "last_modified": "2024-10-08T21:40:45.000Z",
+    "etag": "\"3f7e4803f4db8f56b3c898f51f896047\""
+  },
+  {
+    "key": "reporting/trade_data_2024-10-08.json",
+    "size": 1019091,
+    "last_modified": "2024-10-09T15:33:36.000Z",
+    "etag": "\"51450cd22e1b09a4576155de9005fa46\""
+  },
+  {
+    "key": "reporting/trade_data_2024-10-16.json",
+    "size": 1871709,
+    "last_modified": "2024-10-17T10:44:34.000Z",
+    "etag": "\"f3dbab0ff98ac95c74d549c814066791\""
+  },
+  {
+    "key": "reporting/trade_data_2024-10-17.json",
+    "size": 2362391,
+    "last_modified": "2024-10-18T16:11:46.000Z",
+    "etag": "\"597bf4e9eab7eaaac5f0902473f8ebb3\""
+  },
+  {
+    "key": "reporting/trade_data_2024-10-26.json",
+    "size": 2939801,
+    "last_modified": "2024-10-27T10:42:12.000Z",
+    "etag": "\"f41e599a614438986b3228518fc458a0\""
+  },
+  {
+    "key": "reporting/trade_data_2024-12-12.json",
+    "size": 8027585,
+    "last_modified": "2024-12-13T07:24:11.000Z",
+    "etag": "\"b0818356a1487fff07efd44bc67c59de\""
+  },
+  {
+    "key": "reporting/trade_data_2024-12-24.json",
+    "size": 4267953,
+    "last_modified": "2024-12-25T07:24:10.000Z",
+    "etag": "\"5b6cf2b2811059a2a109c09f0cf5952d\""
+  },
+  {
+    "key": "reporting/trade_data_2025-01-04.json",
+    "size": 5476197,
+    "last_modified": "2025-10-14T21:32:29.000Z",
+    "etag": "\"5551dad55b8b902c86405c588d1658dc\""
+  },
+  {
+    "key": "reporting/trade_data_2025-01-23.json",
+    "size": 11222360,
+    "last_modified": "2025-01-24T09:06:28.000Z",
+    "etag": "\"6ee933c7ff3927720484e40743d04f5f-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-01-28.json",
+    "size": 7332594,
+    "last_modified": "2025-01-29T09:12:17.000Z",
+    "etag": "\"4a7aaf03a52bfb14594f8df4b9ef95bb\""
+  },
+  {
+    "key": "reporting/trade_data_2025-02-02.json",
+    "size": 10489096,
+    "last_modified": "2025-02-03T18:57:08.000Z",
+    "etag": "\"945cb08a8997bc77a4a0232621a85034-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-02-15.json",
+    "size": 9682180,
+    "last_modified": "2025-02-16T06:13:07.000Z",
+    "etag": "\"498ea50409cb6b8448fd75dc9ce4d806-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-02-19.json",
+    "size": 11874079,
+    "last_modified": "2025-02-20T06:15:01.000Z",
+    "etag": "\"b9f2850506128b928e3c0072e83e154c-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-02-25.json",
+    "size": 12564496,
+    "last_modified": "2025-02-26T19:11:20.000Z",
+    "etag": "\"c44bbcc0686d41d805425dc4f1a277ed-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-02.json",
+    "size": 15721533,
+    "last_modified": "2025-03-03T06:14:13.000Z",
+    "etag": "\"1ed535a41cedcf3e88874663f38eaeb5-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-04.json",
+    "size": 18851456,
+    "last_modified": "2025-03-05T06:14:43.000Z",
+    "etag": "\"e051ae3869c0a92fdca5fb9c3c436961-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-05.json",
+    "size": 15256062,
+    "last_modified": "2025-03-06T06:15:30.000Z",
+    "etag": "\"3d208c681b1b879ca409e5101a4979d5-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-12.json",
+    "size": 7140503,
+    "last_modified": "2025-03-13T05:10:40.000Z",
+    "etag": "\"12d29b603f81f71edb136c2eec3f064c\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-14.json",
+    "size": 8122701,
+    "last_modified": "2025-03-15T05:10:15.000Z",
+    "etag": "\"ecf50704df9777d76836e052b1d196f2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-17.json",
+    "size": 6418058,
+    "last_modified": "2025-03-18T05:10:12.000Z",
+    "etag": "\"dd964221f178efffb2ceff372fb60d46\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-18.json",
+    "size": 10605693,
+    "last_modified": "2025-03-19T05:11:27.000Z",
+    "etag": "\"d22cef9df3c1ece731b1c487838d3448-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-21.json",
+    "size": 40603007,
+    "last_modified": "2025-03-22T05:14:41.000Z",
+    "etag": "\"1231d3d08763db70a97ebffe596d6946-5\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-22.json",
+    "size": 36303534,
+    "last_modified": "2025-03-23T05:12:40.000Z",
+    "etag": "\"0a1d4716f4d320bc754618a7664528f0-5\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-25.json",
+    "size": 9013865,
+    "last_modified": "2025-03-26T05:10:29.000Z",
+    "etag": "\"5eda62d47d721afad51015b595d10c1c-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-03-28.json",
+    "size": 27206703,
+    "last_modified": "2025-03-29T05:13:53.000Z",
+    "etag": "\"7d1fd4dfcb61082d9f2ed530725b2549-4\""
+  },
+  {
+    "key": "reporting/trade_data_2025-04-02.json",
+    "size": 14061773,
+    "last_modified": "2025-04-03T05:18:38.000Z",
+    "etag": "\"a54da2deaa60d727ed29aee2e3f3336a-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-04-04.json",
+    "size": 15210879,
+    "last_modified": "2025-04-05T05:12:24.000Z",
+    "etag": "\"49b8f2232b75f2bd1d6ab40f70d1525b-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-04-09.json",
+    "size": 13479061,
+    "last_modified": "2025-04-10T05:14:42.000Z",
+    "etag": "\"4ab12907f6ded129fb569a5138b9df0d-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-04-15.json",
+    "size": 9759620,
+    "last_modified": "2025-04-16T05:12:49.000Z",
+    "etag": "\"ceb945d745b3ad50991730f1e0f9acd1-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-04-25.json",
+    "size": 11257314,
+    "last_modified": "2025-04-26T05:13:00.000Z",
+    "etag": "\"0a80d51065a309522147277a35754e36-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-05-06.json",
+    "size": 16944152,
+    "last_modified": "2025-05-07T05:16:06.000Z",
+    "etag": "\"f238f17aeeb99e02cda86a576d450862-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-05-13.json",
+    "size": 17501563,
+    "last_modified": "2025-05-14T05:15:16.000Z",
+    "etag": "\"377aae119c12eb56ff54ffd1581aa5d0-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-06-05.json",
+    "size": 23754873,
+    "last_modified": "2025-06-06T05:16:46.000Z",
+    "etag": "\"3679eb2f2e6cb8cfec69c38d05cc612c-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-06-17.json",
+    "size": 16082767,
+    "last_modified": "2025-06-18T05:16:58.000Z",
+    "etag": "\"7fdf49a13c29da7f28e0464548f4dd26-2\""
+  },
+  {
+    "key": "reporting/trade_data_2025-07-03.json",
+    "size": 20741329,
+    "last_modified": "2025-07-04T05:19:43.000Z",
+    "etag": "\"3442ed0df6ccdde708172736ad823d08-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-07-06.json",
+    "size": 21961251,
+    "last_modified": "2025-07-07T05:18:16.000Z",
+    "etag": "\"afd57d8bef0f2e4e7be907835738f433-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-07-19.json",
+    "size": 23957242,
+    "last_modified": "2025-07-20T05:21:56.000Z",
+    "etag": "\"99bda2badfeb911744d432bdeb443e0c-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-07-23.json",
+    "size": 19327237,
+    "last_modified": "2025-07-24T05:20:36.000Z",
+    "etag": "\"e9fb3f609e909892e4904faa909f3527-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-08-18.json",
+    "size": 20165072,
+    "last_modified": "2025-08-19T06:30:08.000Z",
+    "etag": "\"186399b6a0ede702e4a848675e6db4c9-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-08-20.json",
+    "size": 19595307,
+    "last_modified": "2025-08-21T05:23:09.000Z",
+    "etag": "\"f85071fe00122cf81d5ddbbed6c82f51-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-08-28.json",
+    "size": 30854116,
+    "last_modified": "2025-08-29T05:22:12.000Z",
+    "etag": "\"c5fd0596ff17c1cde0f4ceab88395640-4\""
+  },
+  {
+    "key": "reporting/trade_data_2025-09-02.json",
+    "size": 23068975,
+    "last_modified": "2025-09-03T05:23:57.000Z",
+    "etag": "\"028efb2f4f34594b0b39fe0fa67c17f7-3\""
+  },
+  {
+    "key": "reporting/trade_data_2025-09-03.json",
+    "size": 26420401,
+    "last_modified": "2025-09-04T05:23:05.000Z",
+    "etag": "\"78f08b65fe6a53cf2a2a300d9bb361cd-4\""
+  },
+  {
+    "key": "reporting/trade_data_2025-10-11.json",
+    "size": 132622411,
+    "last_modified": "2025-10-12T05:15:43.000Z",
+    "etag": "\"dd83256de7b0d5baf5020fb7f31501cd-16\""
+  },
+  {
+    "key": "reporting/trade_data_2025-10-23.json",
+    "size": 84868531,
+    "last_modified": "2025-10-24T05:22:28.000Z",
+    "etag": "\"9aaaba0168c9e397a730f1b2814b801e-11\""
+  },
+  {
+    "key": "reporting/trade_data_2025-10-29.json",
+    "size": 101453632,
+    "last_modified": "2025-10-30T05:26:41.000Z",
+    "etag": "\"478c4a0cbf4730ee6585f96312668f5b-13\""
+  },
+  {
+    "key": "reporting/trade_data_2025-11-02.json",
+    "size": 162005014,
+    "last_modified": "2025-11-03T06:34:25.000Z",
+    "etag": "\"aa002f8de4e0c255ba171047aabe3b49-20\""
+  },
+  {
+    "key": "reporting/trade_data_2025-11-07.json",
+    "size": 92780507,
+    "last_modified": "2025-11-08T06:28:13.000Z",
+    "etag": "\"a2ec6f09d9188a0e1afab2257d1bac1c-12\""
+  },
+  {
+    "key": "reporting/trade_data_2025-11-23.json",
+    "size": 178772637,
+    "last_modified": "2025-11-24T16:42:10.000Z",
+    "etag": "\"17b30b87801e75ae9f9108e1f25a8a9a-22\""
+  },
+  {
+    "key": "reporting/trade_data_2025-12-15.json",
+    "size": 141115764,
+    "last_modified": "2026-01-06T03:44:56.000Z",
+    "etag": "\"adecd1cd2eeb598f2cd59eddc5f1e05e-9\""
+  },
+  {
+    "key": "reporting/trade_data_2025-12-21.json",
+    "size": 292328321,
+    "last_modified": "2025-12-22T07:19:48.000Z",
+    "etag": "\"868096d8271f23a65d78efc107a39f75-35\""
+  },
+  {
+    "key": "reporting/trade_data_2025-12-29.json",
+    "size": 210044228,
+    "last_modified": "2025-12-30T07:39:14.000Z",
+    "etag": "\"1c14ea1dfa680cb53ea4bd96665a258e-26\""
+  },
+  {
+    "key": "reporting/trade_data_2026-01-02.json",
+    "size": 232350574,
+    "last_modified": "2026-01-03T07:33:06.000Z",
+    "etag": "\"70a544b390a5ec55ea8bb6c0bd8f4ac5-28\""
+  },
+  {
+    "key": "reporting/trade_data_2026-01-20.json",
+    "size": 299437176,
+    "last_modified": "2026-01-21T07:38:53.000Z",
+    "etag": "\"6aabcd00e1dfd43c98f4e4eecfcdc181-36\""
+  },
+  {
+    "key": "reporting/trade_data_2026-02-06.json",
+    "size": 397398183,
+    "last_modified": "2026-02-07T06:28:54.000Z",
+    "etag": "\"38a7bdc30d117d3f0f9a233fec7657d6-48\""
+  },
+  {
+    "key": "reporting/trade_data_2026-02-11.json",
+    "size": 523222079,
+    "last_modified": "2026-02-12T06:32:25.000Z",
+    "etag": "\"89fa62d4c44c813dedd3fe05b9a43457-63\""
+  },
+  {
+    "key": "reporting/trade_data_2026-02-12.json",
+    "size": 467141291,
+    "last_modified": "2026-02-13T06:32:20.000Z",
+    "etag": "\"153c0346b4c4a9cef1780f406545bdea-56\""
+  },
+  {
+    "key": "reporting/trade_data_2026-02-15.json",
+    "size": 497185912,
+    "last_modified": "2026-02-16T06:38:09.000Z",
+    "etag": "\"23a399596c60d0dcce89b6c1523bcca4-60\""
+  },
+  {
+    "key": "reporting/trade_data_2026-02-25.json",
+    "size": 524061432,
+    "last_modified": "2026-02-27T04:20:53.000Z",
+    "etag": "\"32af78fd0e88f699602cd9611a41afb6-63\""
+  },
+  {
+    "key": "reporting/trade_data_2026-02-27.json",
+    "size": 474576683,
+    "last_modified": "2026-02-28T06:36:00.000Z",
+    "etag": "\"157d46f2395605c2b2f30d8104893df8-57\""
+  },
+  {
+    "key": "reporting/trade_data_2026-03-14.json",
+    "size": 622923872,
+    "last_modified": "2026-03-19T23:07:31.000Z",
+    "etag": "\"58ebfdd4c4289ac44f488538dcb726ec-75\""
+  },
+  {
+    "key": "reporting/trade_data_2026-03-26.json",
+    "size": 564865413,
+    "last_modified": "2026-03-27T16:05:58.000Z",
+    "etag": "\"abff7cccfbc03c95623a1700c7b72bae-68\""
+  },
+  {
+    "key": "reporting/trade_data_2026-04-07.json",
+    "size": 626418760,
+    "last_modified": "2026-04-08T06:10:38.000Z",
+    "etag": "\"05cfc735ae49f706d6aaba4bf6c0e8b2-75\""
+  },
+  {
+    "key": "reporting/trade_data_2026-04-16.json",
+    "size": 551230754,
+    "last_modified": "2026-04-17T06:01:29.000Z",
+    "etag": "\"a443ad8b3b57bf000686b963fd5cf780-66\""
+  },
+  {
+    "key": "reporting/trade_data_2026-04-23.json",
+    "size": 690157384,
+    "last_modified": "2026-04-24T06:18:02.000Z",
+    "etag": "\"8c0b77208d2d658c73630273a0167363-83\""
+  },
+  {
+    "key": "reporting/trade_data_2026-05-06.json",
+    "size": 676797951,
+    "last_modified": "2026-05-07T06:23:11.000Z",
+    "etag": "\"9759f6f02372915b98a6f3a993043512-81\""
+  },
+  {
+    "key": "reporting/trade_data_2026-05-22.json",
+    "size": 776771288,
+    "last_modified": "2026-05-23T06:26:02.000Z",
+    "etag": "\"eba0aa02e675bffcf0d9ab8354335746-93\""
+  },
+  {
+    "key": "reporting/trade_data_2026-05-25.json",
+    "size": 698332845,
+    "last_modified": "2026-05-26T06:17:01.000Z",
+    "etag": "\"4801e3d44a956a33dc6fa8110be494c7-84\""
+  },
+  {
+    "key": "reporting/trade_data_2026-05-27.json",
+    "size": 768430777,
+    "last_modified": "2026-05-28T06:17:49.000Z",
+    "etag": "\"3a26a5747b0cbac759ee12e2f75a75e4-92\""
+  },
+  {
+    "key": "reporting/trade_data_2026-05-30.json",
+    "size": 902206855,
+    "last_modified": "2026-05-31T06:32:24.000Z",
+    "etag": "\"b225116626ab18f85c5c3a3c233840c2-108\""
+  },
+  {
+    "key": "reporting/trade_data_2026-06-10.json",
+    "size": 1040622581,
+    "last_modified": "2026-06-11T06:33:47.000Z",
+    "etag": "\"09a261ae44c9a5421bf013986a7b5e47-125\""
+  },
+  {
+    "key": "reporting/trade_data_2026-06-19.json",
+    "size": 1532930782,
+    "last_modified": "2026-06-20T08:15:05.000Z",
+    "etag": "\"a227b93e0f434241a57b2613cf978dc8-183\""
+  },
+  {
+    "key": "reporting/trade_data_2026-06-22.json",
+    "size": 1548798458,
+    "last_modified": "2026-06-23T08:46:11.000Z",
+    "etag": "\"e27d0294922025077ad6085d0d4ad19c-185\""
+  },
+  {
+    "key": "reporting/trade_data_2026-06-28.json",
+    "size": 1259478239,
+    "last_modified": "2026-06-29T08:37:52.000Z",
+    "etag": "\"6b9b83c8fd61c086ab16b31d4d367df1-151\""
+  },
+  {
+    "key": "reporting/trade_data_2026-07-15.json",
+    "size": 1787694407,
+    "last_modified": "2026-07-16T11:27:35.000Z",
+    "etag": "\"707ceb0ea28d2ca2a75e4fdd762714f1-214\""
+  },
+  {
+    "key": "reporting/trade_data_2026-07-16.json",
+    "size": 1412029615,
+    "last_modified": "2026-07-17T09:50:17.000Z",
+    "etag": "\"49b80f2b14f426c6bfd59da768201420-169\""
+  },
+  {
+    "key": "reporting/trade_data_2026-07-26.json",
+    "size": 1677880285,
+    "last_modified": "2026-07-27T07:15:51.000Z",
+    "etag": "\"0a988c416bd59753d0b2bb7af12a9313-201\""
+  },
+  {
+    "key": "reporting/trade_data_2026-07-29.json",
+    "size": 1664927565,
+    "last_modified": "2026-07-30T05:51:41.000Z",
+    "etag": "\"684e0b1ea9e8e2f59b20527b3427239a-199\""
+  },
+  {
+    "key": "reporting/trade_data_2026-08-11.json.gz",
+    "size": 96198953,
+    "last_modified": "2026-08-12T06:09:37.000Z",
+    "etag": "\"5906136bdc97fa06fb6793bb56d5a2c3-12\""
+  },
+  {
+    "key": "reporting/trade_data_2026-08-14.json.gz",
+    "size": 99050576,
+    "last_modified": "2026-08-15T06:16:09.000Z",
+    "etag": "\"69a6b3fb680d23f7b9b884ee1e372192-12\""
+  },
+  {
+    "key": "reporting/trade_data_2026-08-18.json.gz",
+    "size": 91134584,
+    "last_modified": "2026-08-19T06:06:25.000Z",
+    "etag": "\"9a5125971920b75aa7305308c7c32eb9-11\""
+  },
+  {
+    "key": "reporting/trade_data_2026-08-20.json.gz",
+    "size": 92819967,
+    "last_modified": "2026-08-21T06:04:36.000Z",
+    "etag": "\"486a628839dbc5dcd0da0d77225fbd5e-12\""
+  },
+  {
+    "key": "reporting/trade_data_2026-08-23.json.gz",
+    "size": 101893795,
+    "last_modified": "2026-08-24T07:35:11.000Z",
+    "etag": "\"f9a2ac8b4faf3caa85d92863903f585b-13\""
+  },
+  {
+    "key": "reporting/trade_data_2026-09-04.json.gz",
+    "size": 115451613,
+    "last_modified": "2026-09-05T06:58:49.000Z",
+    "etag": "\"6ef51b0b7903c77009c2a0d6dc7b6030-14\""
+  },
+  {
+    "key": "reporting/trade_data_2026-09-06.json.gz",
+    "size": 118739423,
+    "last_modified": "2026-09-07T07:10:43.000Z",
+    "etag": "\"34a92275fd8ed6c90bd07c2850daeb62-15\""
+  },
+  {
+    "key": "reporting/trade_data_2026-09-12.json.gz",
+    "size": 166669006,
+    "last_modified": "2026-09-13T07:28:08.000Z",
+    "etag": "\"269453107b695e6e764898b3c52189bc-20\""
+  },
+  {
+    "key": "reporting/trade_data_2026-09-17.json.gz",
+    "size": 131783284,
+    "last_modified": "2026-09-18T07:20:50.000Z",
+    "etag": "\"fdbcd9ffea7e0798807a7340bf0c73eb-16\""
+  }
+]
