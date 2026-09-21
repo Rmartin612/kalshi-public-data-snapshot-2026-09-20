@@ -8,6 +8,8 @@ The frozen inventory contains 3,934 data files totaling 462,291,303,835 original
 
 Start with the [restore guide](https://github.com/Rmartin612/kalshi-public-data-snapshot-2026-09-20/releases/download/snapshot-2026-09-20/ARCHIVE_README.md) or the [control bundle](https://github.com/Rmartin612/kalshi-public-data-snapshot-2026-09-20/releases/download/snapshot-2026-09-20/kalshi-public-snapshot-control-2026-09-20.zip). The date index lets you retrieve selected days. Completion was verified on September 21, 2026 at 04:38 UTC.
 
+The [tweet and analysis-code supplement](https://github.com/Rmartin612/kalshi-public-data-snapshot-2026-09-20/releases/tag/tweet-context-2101865803909857596) preserves the public references in [Daniel Sapkota's follow-up tweet](https://x.com/danielsapkota/status/2101865803909857596): the seven-file `warproxxx/kalshi_analysis` repository at commit `34f094098d4cf973d9001e6965498ad3e253a80e`, its category map, official tweet responses, and a separate current API response containing 14,170 series. Its trade-data source is already covered by the original snapshot, including the recent `.json.gz` files. The supplement was downloaded back from the cloud and all internal hashes verified; it does not alter the frozen reporting snapshot.
+
 ## Verify the cloud snapshot
 
 With Python 3 and the GitHub CLI available, run the independent metadata and cloud-digest check using the release ID:
