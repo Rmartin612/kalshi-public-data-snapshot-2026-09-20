@@ -4,7 +4,9 @@ This repository preserves the public `reporting/` object inventory from [Kalshi 
 
 The frozen inventory contains 3,934 data files totaling 462,291,303,835 original bytes, plus a zero-byte directory marker. Daily market and trade data cover June 28, 2021 through September 19, 2026; perpetual-market data cover June 1 through September 20, 2026. Two backup files are also included. This is a snapshot of the publicly listed reporting objects at capture time.
 
-Preservation is complete only when the release contains all eight `SHARD-XX-COMPLETE.json` markers and the independent verifier reports `COMPLETE`. A source inventory or partial release alone is not the archive.
+**[The completed cloud archive is available here](https://github.com/Rmartin612/kalshi-public-data-snapshot-2026-09-20/releases/tag/snapshot-2026-09-20).** All 3,934 original files are preserved losslessly in 93 ZIP volumes totaling 34,663,383,402 bytes. All eight shard proofs and the independent combined audit passed. The release includes the complete file index, source and cloud checksums, recovery tools, and final delivery verification.
+
+Start with the [restore guide](https://github.com/Rmartin612/kalshi-public-data-snapshot-2026-09-20/releases/download/snapshot-2026-09-20/ARCHIVE_README.md) or the [control bundle](https://github.com/Rmartin612/kalshi-public-data-snapshot-2026-09-20/releases/download/snapshot-2026-09-20/kalshi-public-snapshot-control-2026-09-20.zip). The date index lets you retrieve selected days. Completion was verified on September 21, 2026 at 04:38 UTC.
 
 ## Verify the cloud snapshot
 
