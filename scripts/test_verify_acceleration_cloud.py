@@ -97,6 +97,8 @@ def main():
     result = check.verify_shard(0, marker, extracted, plan, shard, expected, live, 123)
     assert result["source_object_count"] == 3 and result["source_bytes"] == shard["source_bytes"]
     first_name = cloud[0]["name"]
+    live[first_name]["browser_download_url"] = "https://github.com/fixture/releases/download/published/" + first_name
+    check.check_receipt(cloud[0], live)  # Publication may change the captured draft browser URL.
     old_digest = live[first_name]["digest"]
     live[first_name]["digest"] = "sha256:" + "0" * 64
     expect_failure(lambda: check.verify_shard(0, marker, extracted, plan, shard, expected, live, 123), "Live cloud metadata differs")
@@ -133,7 +135,7 @@ def main():
         check.api, check.list_assets, sys.argv = original_api, original_list, original_argv
     print(json.dumps({"status": "PASS", "tests": ["split-gzip-and-original-gzip-proof", "live-cloud-hash-mismatch-rejected",
           "recovery-receipt-tamper-rejected", "zip-path-traversal-rejected", "actual-approved-plan-3934-coverage",
-          "missing-markers-remain-INCOMPLETE", "private-and-wrong-repositories-rejected"], "fixture_directory": str(work)}, indent=2))
+          "missing-markers-remain-INCOMPLETE", "private-and-wrong-repositories-rejected", "publication-url-change-accepted"], "fixture_directory": str(work)}, indent=2))
 
 
 if __name__ == "__main__":

@@ -101,8 +101,9 @@ def check_receipt(receipt, live):
     require(asset["state"] == "uploaded" and asset["id"] == receipt["asset_id"]
             and asset["size"] == receipt["bytes"] and asset["digest"] == "sha256:" + receipt["sha256"],
             "Live cloud metadata differs from receipt: " + name)
-    require(receipt["cloud_digest"] == asset["digest"] and receipt["url"] == asset["browser_download_url"],
-            "Receipt URL/digest differs from cloud asset: " + name)
+    # Publication changes GitHub's draft 'untagged-*' browser URL. The immutable
+    # asset ID and content digest bind bytes; a captured URL is provenance only.
+    require(receipt["cloud_digest"] == asset["digest"], "Receipt digest differs from cloud asset: " + name)
     return asset
 
 
